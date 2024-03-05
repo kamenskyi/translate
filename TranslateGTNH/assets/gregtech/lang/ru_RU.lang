@@ -1,0 +1,107 @@
+tc.research_name.GT_WOOD_TO_CHARCOAL=Трансмутация Древесного угля
+tc.research_text.GT_WOOD_TO_CHARCOAL=[GT] Превращение дерева в древесный уголь
+gt.research.page.1.GT_WOOD_TO_CHARCOAL=Вы открыли способ магического изготовления древесного угля вместо использования для этой цели обычных печей.<BR><BR>Чтобы создать древесный уголь из дерева, вам сначала нужна безвоздушная среда, для этого нужна некоторая вакуумная эссенция, затем вам нужно сожгите древесину, используя ignis essentia, и подождите, пока вся вода внутри древесины не выгорит.<BR><BR>Однако этот метод не создает креозотовое масло в качестве побочного продукта.
+
+tc.research_name.GT_ADVANCEDMETALLURGY=Продвинутая металлургическая трансмутация
+tc.research_text.GT_ADVANCEDMETALLURGY=[GT] Освоение основных металлов
+gt.research.page.GT_ADVANCEDMETALLURGY=Вы открыли способ магического изготовления древесного угля вместо использования для этой цели обычных печей.<BR><BR>Чтобы создать древесный уголь из дерева, вам сначала нужна безвоздушная среда, для этого нужна некоторая vacuus эссенция, затем вам нужно сжечь древесину используя ignis essentia и подождите пока вся вода внутри древесины не выгорит.<BR><BR>Однако этот метод не создает креозотовое масло в качестве побочного продукта.
+
+tc.research_name.GT_FILL_WATER_BUCKET=Трансмутация воды
+tc.research_text.GT_FILL_WATER_BUCKET=[GT] Наполнение ведер водой
+gt.research.page.1.GT_FILL_WATER_BUCKET=Вы нашли способ наполнить ведро aqua эссенцией, чтобы просто получить воду.
+
+tc.research_name.GT_TRANSZINC=Трансмутация Zinc
+tc.research_text.GT_TRANSZINC=[GT] Превращение металлов в zinc
+gt.research.page.1.GT_TRANSZINC=Вы открыли способ умножения zinc путем замачивания zinc nuggets в metallum, полученный из других металлов.
+
+tc.research_name.GT_TRANSANTIMONY=Трансмутация Antimony
+tc.research_text.GT_TRANSANTIMONY=[GT] Превращение металлов в antimony
+gt.research.page.1.GT_TRANSANTIMONY=Вы открыли способ умножения antimony путем замачивания antimony nuggets в metallum, полученный из других металлов.
+
+tc.research_name.GT_TRANSNICKEL=Трансмутация Nickel
+tc.research_text.GT_TRANSNICKEL=[GT] Превращение металлов в nickel
+gt.research.page.1.GT_TRANSNICKEL=Вы открыли способ умножения nickel путем замачивания nickel nuggets в metallum, полученный из других металлов.
+
+tc.research_name.GT_TRANSCOBALT=Трансмутация Cobalt
+tc.research_text.GT_TRANSCOBALT=[GT] Превращение металлов в cobalt
+gt.research.page.1.GT_TRANSCOBALT=Вы открыли способ умножения cobalt путем замачивания cobalt nuggets в metallum, полученный из других металлов.
+
+tc.research_name.GT_TRANSBISMUTH=Трансмутация Bismuth
+tc.research_text.GT_TRANSBISMUTH=[GT] Превращение металлов в bismuth
+gt.research.page.1.GT_TRANSBISMUTH=Вы открыли способ умножения bismuth путем замачивания bismuth nuggets в metallum, полученный из других металлов.
+
+tc.research_name.GT_IRON_TO_STEEL=Трансмутация Steel
+tc.research_text.GT_IRON_TO_STEEL=[GT] Превращение iron в steel
+gt.research.page.1.GT_IRON_TO_STEEL=Вы открыли способ сделать Iron более твердым, просто изменив порядок его компонентов.<BR><BR>Этот метод можно использовать для создания материала под названием Steel, который используется во многих не-тауматургических приложениях.
+
+tc.research_name.GT_TRANSBRONZE=Трансмутация Bronze
+tc.research_text.GT_TRANSBRONZE=[GT] Превращение металлов в bronze
+gt.research.page.1.GT_TRANSBRONZE=Вы открыли способ создания сплавов с использованием уже известных преобразований Copper и Tin.<BR><BR>Этот метод можно использовать для создания Bronze напрямую, без необходимости проходить процесс легирования.
+
+tc.research_name.GT_TRANSELECTRUM=Трансмутация Electrum
+tc.research_text.GT_TRANSELECTRUM=[GT] Превращение металлов в electrum
+gt.research.page.1.GT_TRANSELECTRUM=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Electrum.
+
+tc.research_name.GT_TRANSBRASS=Трансмутация Brass
+tc.research_text.GT_TRANSBRASS=[GT] Превращение металлов в brass
+gt.research.page.1.GT_TRANSBRASS=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Brass.
+
+tc.research_name.GT_TRANSINVAR=Трансмутация Invar
+tc.research_text.GT_TRANSINVAR=[GT] Превращение металлов в invar
+gt.research.page.1.GT_TRANSINVAR=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Invar.
+
+tc.research_name.GT_TRANSCUPRONICKEL=Трансмутация Cupronickel
+tc.research_text.GT_TRANSCUPRONICKEL=[GT] Превращение металлов в cupronickel
+gt.research.page.1.GT_TRANSCUPRONICKEL=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Cupronickel.
+
+tc.research_name.GT_TRANSBATTERYALLOY=Трансмутация Battery Alloy
+tc.research_text.GT_TRANSBATTERYALLOY=[GT] Превращение металлов в battery alloy
+gt.research.page.1.GT_TRANSBATTERYALLOY=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Battery Alloy.
+
+tc.research_name.GT_TRANSSOLDERINGALLOY=Трансмутация Soldering Alloy
+tc.research_text.GT_TRANSSOLDERINGALLOY=[GT] Превращение металлов в soldering alloy
+gt.research.page.1.GT_TRANSSOLDERINGALLOY=Ваше открытие трансмутации Bronze привело вас к выводу, что она работает и с другими сплавами, такими как Soldering Alloy.
+
+tc.research_name.GT_ADVANCEDMETALLURGY=Продвинутая Металургическая Трансмутация
+tc.research_text.GT_ADVANCEDMETALLURGY=[GT] Mastering the basic metals
+gt.research.page.1.GT_ADVANCEDMETALLURGY=Теперь, когда вы открыли все основные металлы, вы, наконец, можете перейти на следующий уровень магической металлургии и создавать более совершенные металлы
+
+tc.research_name.GT_TRANSALUMINIUM=Трансмутация Aluminium
+tc.research_text.GT_TRANSALUMINIUM=[GT] Превращение металлов в aluminium
+gt.research.page.1.GT_TRANSALUMINIUM=Вы открыли способ умножения aluminium путем замачивания aluminium nuggets в metallum, полученный из других металлов.<BR><BR>Эту трансмутацию осуществить немного сложнее, поскольку aluminium обладает особыми свойствами, которые требуют большего порядка для достижения желаемого результата.
+
+tc.research_name.GT_TRANSSKYSTONE=Трансмутация Skystone
+tc.research_text.GT_TRANSSKYSTONE=[GT] Превращение of obsidian в skystone
+gt.research.page.1.GT_TRANSSKYSTONE=Вы нашли способ превращать obsidian в skystone.<BR><BR>Не знаю, зачем вам это делать, если только skystone по какой-то причине недоступен в вашем мире.
+
+tc.research_name.GT_TRANSMINERAL=Трансмутация Basaltic Mineral
+tc.research_text.GT_TRANSMINERAL=[GT] Превращение of mineral sands
+gt.research.page.1.GT_TRANSMINERAL=Вы нашли способ превращать  basaltic mineral sand в granitic mineral sand и наоборот.<BR><BR>Полезно для людей, живущих в небе, которые не могут получить к нему обычный доступ, или если вы действительно хотите того или другого.
+
+tc.research_name.GT_CRYSTALLISATION=Рекристаллизация осколков
+tc.research_text.GT_CRYSTALLISATION=[GT] Починка ваших драгоценных кристаллов
+gt.research.page.1.GT_CRYSTALLISATION=Иногда при обработке осколков кристалла они превращаются в кучу пыли вместо наиболее необходимого осколка.<BR><BR>Вы наконец нашли способ обратить этот процесс вспять, используя Эссенцию Vitreus для перекристаллизация Осколков.
+
+tc.research_name.GT_MAGICENERGY=Magic Energy Conversion
+tc.research_text.GT_MAGICENERGY=[GT] Мощь от магии
+gt.research.page.1.GT_MAGICENERGY=Пытаясь найти новые способы интеграции магии в ваши промышленные предприятия, вы обнаружили способ преобразования магической энергии в электрическую.
+
+tc.research_name.GT_MAGICENERGY2=Adept Magic Energy Conversion
+tc.research_text.GT_MAGICENERGY2=[GT] Мощь от магии
+gt.research.page.1.GT_MAGICENERGY2=Попытки увеличить мощность ваших генераторов магической энергии привели к значительным улучшениям.
+
+tc.research_name.GT_MAGICENERGY3=Master Magic Energy Conversion
+tc.research_text.GT_MAGICENERGY3=[GT] Мощь от магии
+gt.research.page.1.GT_MAGICENERGY3=Попытки увеличить мощность ваших генераторов магической энергии привели к значительным улучшениям.
+
+tc.research_name.GT_MAGICABSORB=Magic Energy Absorption
+tc.research_text.GT_MAGICABSORB=[GT] Harvesting Magic
+gt.research.page.1.GT_MAGICABSORB=Исследования методов преобразования магической энергии выявили способ преобразования окружающей энергии в электрическую энергию.
+
+tc.research_name.GT_MAGICABSORB2=Improved Magic Energy Absorption
+tc.research_text.GT_MAGICABSORB2=[GT] Harvesting Magic
+gt.research.page.1.GT_MAGICABSORB2=Мой выход! Слейте всю магию!
+
+tc.research_name.GT_HAZMATENCH=Защита от опасных веществ
+tc.research_text.GT_HAZMATENCH=[GT] Магическая защита от физических опасностей.
+gt.research.page.1.GT_HAZMATENCH=Вы нашли способ магически зачаровать обычную броню защитными свойствами комплекта Hazmat.
