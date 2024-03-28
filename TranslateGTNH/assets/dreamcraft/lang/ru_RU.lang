@@ -918,6 +918,9 @@ Witchery.research_page.WAYSTONE=Путеводный камень — это г�
 tc.research_name.RUNEDTABLET=Руническая таблица
 tc.research_text.RUNEDTABLET=[NH] Босс...? Дааа пора заниматься сельским хозяйством
 kosh.research_page.RUNEDTABLET=Ваше желание добраться до босса? СДЕЛАЙ ЭТО !!!
+tc.research_name.CRIMSONRITES=Багровые обряды
+tc.research_text.CRIMSONRITES=Открытие неизвестного
+tc.research_page.CRIMSONRITES=Вы видели мельком могущественных магов. Вы думаете, что могли бы найти способ раскрыть их секреты.
 
 # Tinker's Construct manual contents
 item.tconstruct.manual.common.recipes=Recipes
