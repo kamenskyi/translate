@@ -1,0 +1,16 @@
+//Expermiental Cases
+expInfo.eatingPlant.name=Пожирающее растение питается существами и производит гнилую плоть. %n Горный и Болотный биомы увеличивают время роста.
+
+//Classic Cases
+classicInfo.requiresAir.name=Требуется %s блоков воздуха вокруг него для роста. %n (тот же Y-уровень)
+
+//Shared Cases
+info.requiresLight.name=Для роста требуется %s Уровень освещенности
+info.requiresSpecialLight.name=Для роста требуется уровень освещенности от %1$s до %2$s
+info.requiresSoilBlock.name=Для выращивания требуется %s в качестве почвенного блока
+info.requiresSoilBlockExtension.name=%s может также использоваться как Soil
+info.requiresNutrient.name=Требуется питательное вещество (%s очков). %n Либо влажный биом, либо почва %n (земля под сельскохозяйственными угодьями. Максимум 3)
+info.requiresHydration.name=Требуется гидратация (%s очков). %n Либо влажный биом, либо увлажненная почва (применяется 2 балла)
+
+info.extraCropInfoKey.name=Нажмите "Ctrl" для получения дополнительной информации
+info.extraCropInfo.name=Дополнительная информация о требованиях:

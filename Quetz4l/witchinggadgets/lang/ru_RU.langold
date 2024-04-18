@@ -1,0 +1,620 @@
+# -- Blocks --
+tile.WG_WallMirror.name=Зеркало на стене
+tile.WG_VoidWalkway.name=Пустотная дорожка
+tile.WG_StoneDevice.etherealWall.name=Эфирная стена
+tile.WG_StoneDevice.magicTileLock.name=Магический замок
+tile.WG_StoneDevice.obsidianPlate.name=Обсидиановая плита
+tile.WG_StoneDevice.obsidianDecoration0.name=Обсидиановая руна
+tile.WG_StoneDevice.obsidianDecoration1.name=Обсидиановая руна
+tile.WG_StoneDevice.obsidianDecoration2.name=Обсидиановая руна
+tile.WG_StoneDevice.sarcophagus.name=Саркофаг
+tile.WG_StoneDevice.timeStone.name=Стареющий камень
+tile.WG_StoneDevice.blastFurnace.name=Инфернальная доменная печь
+
+tile.WG_WoodenDevice.spinningWheel.name=Прялка
+tile.WG_WoodenDevice.loom.name=Ткацкий станок
+tile.WG_WoodenDevice.snowGen.name=Таумический Растворитель льда
+tile.WG_WoodenDevice.cobbleGen.name=Экструдер таумического камня
+tile.WG_WoodenDevice.armorStand.name=Стенд для доспехов
+tile.WG_WoodenDevice.cuttingTable.name=Стол огранщика
+tile.WG_WG_WoodenDevice.saunaStove.name=Таумическая сауна
+tile.WG_WoodenDevice.labelLibrary.name=Библиотека аспектов
+
+tile.WG_MetalDevice.essentiaPump.name=Насос для эссенции
+tile.WG_MetalDevice.voidmetalBlock.name=Блок из пустотного металла
+tile.WG_MetalDevice.terraformer.name=Арканый терроформер биомов
+tile.WG_MetalDevice.tfFocusPlains.name=Фокус терроформирования: Равнины
+tile.WG_MetalDevice.tfFocusColdTaiga.name=Фокус терроформирования: Тайга
+tile.WG_MetalDevice.tfFocusDesert.name=Фокус терроформирования: Пустыня
+tile.WG_MetalDevice.tfFocusJungle.name=Фокус терроформирования: Джунгли
+tile.WG_MetalDevice.tfFocusHell.name=Фокус терроформирования: Ад
+tile.WG_MetalDevice.tfFocusTaint.name=Фокус терроформирования: Заражённый биом
+tile.WG_MetalDevice.tfFocusMushroom.name=Фокус терроформирования: Грибной биом
+tile.WG_MetalDevice.tfFocusRiver.name=Фокус терроформирования: Река
+tile.WG_MetalDevice.tfFocusOcean.name=Фокус терроформирования: Океан
+tile.WG_MetalDevice.tfFocusEnd.name=Фокус терроформирования: Край
+tile.WG_MetalDevice.tfFocusMagic.name=Фокус терроформирования: Магический лес
+
+
+tile.WG_RoseVine.name=Лозы роз
+tile.WG_CustomAir.name=Глиммер света
+
+#
+# -- Items --
+item.WG_Material.threadSimple.name=Пряжа
+item.WG_Material.threadGold.name=Золотая нить
+item.WG_Material.threadThaumium.name=Таумиевая нить
+item.WG_Material.clothSpace.name=Ткань с просторными складками
+item.WG_Material.clothGolden.name=Золотая ткань
+item.WG_Material.clothBewitched.name=Заколдованная руна
+item.WG_Material.wolfPelt.name=Волчья шкура
+item.WG_Material.calculator.name=Магические счёты
+item.WG_Material.cuttingTools.name=Инструменты огранщика
+item.WG_Material.photoPlate.name=Фотопленка
+item.WG_Material.developedPhoto.name=Проявленный фотоснимок
+item.WG_Material.clusterAluminum.name=Кластер алюминия
+item.WG_Material.clusterCobalt.name=Кластер кобальта
+item.WG_Material.clusterArdite.name=Кластер ардита
+item.WG_Material.clusterNickel.name=Кластер никеля
+item.WG_Material.clusterFZDarkIron.name=Кластер тёмного металла
+item.WG_Material.guidingString.name=Путеводная нить
+item.WG_Material.powerlessPearl.name=Опустевшая жемчужина
+item.WG_Material.gemstoneDust.name=Пыль драгоценных камней
+
+item.WG_Cluster.name=Кластер %1$s 
+
+item.WG_Bag.normal.name=Мешок уловок
+item.WG_Bag.void.name=Мешок пустоты
+item.WG_Bag.ender.name=Мешок Края
+item.WG_Bag.hungry.name=Голодный мешок
+
+item.WG_ThaumiumShears.name=Таумические ножницы
+item.WG_MagicFood.sweetwart.name=Сладкий нарост
+item.WG_MagicFood.nethercake.name=Адский пирог
+item.WG_MagicFood.brainjerky.name=Вяленый мозг 
+item.WG_AdvancedRobeChest.name=Заколдованная мантия
+item.WG_AdvancedRobeLegs.name=Заколдованные шаровары
+
+item.WG_AdvancedScribingTools.name=Светящиеся писменные принодлежности
+
+item.WG_Cloak.standard.name=Плащ
+item.WG_Cloak.storage.name=Плащ обширных карманов
+item.WG_Cloak.raven.name=Плащ Ворона
+item.WG_Cloak.spectral.name=Плащ невидимости
+item.WG_Cloak.wolf.name=Плащ волка
+
+item.WG_Kama.standard.name=Кама
+item.WG_Kama.storage.name=Кама обширных карманов
+item.WG_Kama.raven.name=Кама Ворона
+item.WG_Kama.spectral.name=Кама невидимости
+item.WG_Kama.wolf.name=Кама волка
+
+//unused
+item.WG_EliteArmorHelm.ANGELIC_0.name=Офанский шлем
+item.WG_EliteArmorChest.ANGELIC_1.name=Кираса Серафа
+item.WG_EliteArmorLegs.ANGELIC_2.name=Cherub Greaves
+item.WG_EliteArmorBoots.ANGELIC_3.name=Сабатоны Валькирии
+
+item.WG_EliteArmorHelm.DEMONIC_0.name=Helm of Leviathan
+item.WG_EliteArmorChest.DEMONIC_1.name=Кираса Азраила
+item.WG_EliteArmorLegs.DEMONIC_2.name=Lycan's Greaves
+item.WG_EliteArmorBoots.DEMONIC_3.name=Claws of the Behemoth
+//
+
+item.WG_InfusedGem.name=Обработанный драгоценный камень
+item.WG_InfusedGem.innert.name=Тусклый драгоценный камень
+
+item.WG_PrimordialGlove.name=Перчатка изночальности
+item.WG_PrimordialHammer.name=Вархаммер изночальности
+item.WG_PrimordialAxe.name=Топор изночальности
+item.WG_PrimordialSword.name=Клеймора изночальности
+
+item.WG_PrimordialHelm.name=Шлем изночальности
+item.WG_PrimordialChest.name=Кираса изночальности
+item.WG_PrimordialLegs.name=Поножи изночальности
+item.WG_PrimordialBoots.name=Сапоги изночальности
+
+item.WG_Baubles.ring_primordial.name=Кольцо изночальности
+item.WG_Baubles.ring_lifeProtection.name=Кольцо, защищающее жизнь
+
+item.WG_Baubles.shouldersDoublejump.name=Плечи Серафа
+item.WG_Baubles.shouldersKnockback.name=Стадфаст Сполдерс
+item.WG_Baubles.vambraceStrength.name=Браслеты берсерка
+item.WG_Baubles.vambraceHaste.name=Вамбрасеры неуклонного развития
+item.WG_Baubles.titleCrimsonCult.name=Название: Багровый культ
+wg.title.crimsonCultist=Культист багрового культа
+wg.title.crimsonKnight=Малиновый рыцарь
+wg.title.crimsonPraetor=Малиновый претор
+item.WG_Baubles.ringLuck.name=Кольцо желанной монеты
+item.WG_Baubles.ringSniper.name=Пламя снайпера
+
+item.WG_ScanCamera.name=Таумический фотоаппарат
+
+item.WG_CrystalFlask.name=Кристаллическая капсула
+
+item.modifiedTC.luckyCoin=Счастливая золотая монета
+
+# -- Творческий...
+itemGroup.witchinggadgets=Колдовские гаджеты
+
+# -- Зачаровывать --
+enchantment.wg.gemstonePotency=Бриллианс
+enchantment.wg.gemstoneBrittle=Бриттл
+enchantment.wg.invisibleGear=Прозрачность
+enchantment.wg.unveiling=Открытие
+enchantment.wg.stealth=Невидимость
+enchantment.wg.backstab=Нанесение удара в спину
+enchantment.wg.rideProtect=Throwoff
+#
+# -- Случайные фрагменты текста...
+wg.chat.notyourbag=§7Эта сумка принадлежит§r %1$s! §7Вам не разрешается ее открывать.§r
+wg.chat.bagunlocked=§7Сумка была разблокирована, теперь другие могут ее открыть.§r
+wg.chat.baglocked=§7Сумка была заблокирована, никто кроме вас не может ее открыть.§r
+
+wg.gui.textCurNest=Текущее гнездо:
+wg.gui.buttonSetNest=Установить новое гнездо
+wg.gui.buttonMigrate=Возврат в гнездо
+wg.gui.noFeathersToMigrate=У вас нет предметов, необходимых для возвращения в гнездо
+
+wg.desc.noGlide=Передвижение отключено
+
+wg.gui.visSize=Вместимость экрана
+wg.gui.shiftForAspectList=§7Удерживайте §aShift§7 для получения списка Аспектов§r
+wg.gui.activeGem=Активный дрогоценный камень
+wg.gui.passiveGem=Пассивный дрогоценный камень
+wg.chat.gem.shatter=Ваш огранённый дрогоценный камень сломался!
+wg.desc.gemcut.POINT=Точечная огранка
+wg.desc.gemcut.TABLE=Табличный разрез
+wg.desc.gemcut.STEP=Пошаговый разрез
+wg.desc.gemcut.ROSE=Розовая огранка
+wg.desc.gemcut.OVAL=Овальная огранка
+wg.desc.gemaffinity=Природная совместимость:
+wg.desc.gemaversion=Природное отторжение:
+
+wg.desc.ctrlForAspectList=§7Удерживайте §aCtrl§7 для получения списка Аспектов§r
+wg.desc.scanCompleted=Сканирование завершено
+
+wg.desc.gearSlot.tg.0=Экипирован в слот §aCloak§7
+wg.desc.gearSlot.tg.1=Экипирован в слот §aPauldron§7
+wg.desc.gearSlot.tg.2=Экипировка в слоте §aVambrace§7
+wg.desc.gearSlot.tg.3=Экипировка в слоте §aTitle§7
+wg.desc.gearSlot.bauble.RING=Экипировка в слоте §aRing§7
+wg.desc.gearSlot.bauble.BELT=Экипирован в слоте §aBelt§7
+wg.desc.gearSlot.bauble.AMULET=Экипировка в слоте §aAmulet§7
+
+wg.desc.filteredItems=Принятые предметы:
+
+wg.desc.active=Активный
+
+wg.desc.infusionStabilizer=Работает как стабилизатор инфузии
+
+wg.gui.search=Поиск
+wg.chat.nodeContents.primal=Первичные аспекты в этом узле: §eAer: %1$s§f, §2Terra: %2$s§f, §cIgnis: %3$s§f, §3Aqua: %4$s§f, §7Ordo: %5$s§f, §8Perditio: %6$s
+wg.chat.infusionWarning.pedestalHeight=Пьедестал для инфузии на %1$s, %2$s, %3$s не должен быть выше матрицы инфузии
+wg.chat.infusionWarning.pedestalPos=Пьедестал для инфузии на %1$s, %2$s, %3$s не должен находиться на расстоянии более 8 блоков по горизонтали от матрицы
+wg.chat.infusionWarning.noPartnerItem=Пьедестал на %1$s, %2$s, %3$s должен иметь элемент, соответствующий своему партнеру
+wg.chat.infusionWarning.noPartnerPedestal=Педестал на %1$s, %2$s, %3$s не имеет симметричного партнера
+wg.chat.infusionWarning.noPartnerStabilizer=Стабилизатор на %1$s, %2$s, %3$s не имеет симметричного партнера
+wg.chat.infusionInfo.stabilityTotal=Общий бустер стабильности: %1$s
+wg.chat.infusionInfo.instability=Общая нестабильность этой инфузии: %1$s
+wg.chat.infusionInfo.essentiaMod=Это зачарование настойки будет потреблять в %1$s раз больше эссенции, чем указано в Таумономиконе:
+wg.chat.infusionInfo.essentiaRunicMod= Затраты эссенции для этого Рунического дополнения равны %1$s:
+
+
+wg.potionKnockbackRes=Резонанс нокбэка.
+wg.potionDissolve=Растворение
+wg.potionCinderCoat=Золотой плащ
+
+# -- Исследование...
+# Форматирование:
+# §l Полужирный
+# §m Зачеркивание
+# §n Подчеркивание
+# §o Курсив
+# §r Сброс
+# <BR> LineBreak
+# <LINE> Fancy LineBreak
+#
+#
+# Шаблон:
+# witchinggadgets_research_name.KEY=Имя исследования
+# witchinggadgets_research_text.KEY=Подтекст исследования
+# witchinggadgets_research_page.KEY.NUMBER=Текст исследования на странице с номером NUMBER
+#
+tc.research_category.WITCHGADG=Колдовские гаджеты
+#
+witchinggadgets_research_name.VORPALBLADE=Скорпальский клинок
+witchinggadgets_research_text.VORPALBLADE=СНИКЕР-СНАК!
+witchinggadgets_research_page.VORPALBLADE.1=§oOne, two! Раз, два! И сквозь, и сквозь<BR>Ворпаловый клинок прошел сникер-снак!<BR>Он оставил его мертвым, и с его головой<BR>Он пошел с галумфом назад§r<LINE>Меч из легенды. Настолько мощный, что может чисто прорезать любой известный людям материал и способен нанести смертельный удар и обезглавить почти любого врага.
+#
+witchinggadgets_research_name.WALLMIRROR=Зеркало на стене
+witchinggadgets_research_text.WALLMIRROR=[WG] Самое волшебное из всех!
+witchinggadgets_research_page.WALLMIRROR.1=Дальнейшее изучение магии зеркал привело вас к открытию безопасного убежища в пустоте между мирами.<BR>Хотя это место наполнено магией, в остальном оно кажется лишенным чего-либо. Оно не имеет видимого слоя пола, но каким-то образом вы можете там стоять.<BR>Это пространство кажется отличным способом путешествовать. Поскольку оно обширно и пусто, в этой пустоте между мирами легко хранить любые ваши вещи.
+witchinggadgets_research_page.WALLMIRROR.2=§lДоступ:§r<BR>Разместите зеркало в любом удобном для вас месте. Когда вы захотите открыть портал, просто щелкните по нему правой кнопкой мыши. Доступ в измерение через него такой же, как и из любого зеркала, но порталы из него создаются только там, где в него вошли. Это означает, что выйти можно только там, где в Надземном мире было размещено другое Зеркало.<BR><BR>§lНавигация:§r<BR>Невидимый пол будет появляться в формате 5х5 под вами, куда бы вы ни пошли. Эти блоки можно заменить на обычные блоки, щелкнув по ним правой кнопкой мыши, что позволит вам строить там. Прыгайте, чтобы подняться, пол будет следовать за вами. Удерживая клавишу "пронестись", вы спуститесь вниз.
+#
+#WGPOTIONS
+witchinggadgets_research_name.WGPOTIONS= Эффекты состояния
+witchinggadgets_research_text.WGPOTIONS=[WG] Молоко - не всегда вариант! 
+witchinggadgets_research_page.WGPOTIONS.1=При изучении арканы вы можете столкнуться с определенными недугами. Вот список известных:<BR><IMG>witchinggadgets:textures/gui/potioneffects.png:18:198:18:18:1</IMG>§nСопротивление отдаче:§r Дает пораженному шанс сопротивляться отдаче, с шансом 33% за уровень. <IMG>witchinggadgets:textures/gui/potioneffects.png:36:198:18:18:1</IMG>§nDissolving:§r Пораженный покрывается жидкостью, похожей на "жидкую смерть", наносящей ему урон с течением времени. Если они поддаются ей, то выпадают кристаллизованные аспекты.
+witchinggadgets_research_page.WGPOTIONS.2=<IMG>witchinggadgets:textures/gui/potioneffects.png:54:198:18:1</IMG>§nCinder Coat:§r Пораженный покрыт магической золой, которая усиливает силу пламени. Все повреждения от огня умножаются в зависимости от силы эффекта.
+
+
+
+witchinggadgets_research_name.ETHEREALWALL=Эфирная стена
+witchinggadgets_research_text.ETHEREALWALL=[WG] Скрытая на виду
+witchinggadgets_research_page.ETHEREALWALL.1=Уточнение заклинаний на арканном камне привело к интересному открытию. Простое применение сигнала красного камня к этому новому типу камня сделает его §onon-corporeal§r, позволяя вам пройти сквозь него.<BR>Это также влияет на любую другую Эфирную стену, подключенную к этому блоку.
+witchinggadgets_research_page.ETHEREALWALL.2= Кроме того, вы можете замаскировать этот камень под внешний вид большинства обычных блоков. Просто щелкните его с блоком в руке, и он примет его текстуру. Щелкните его с пустой рукой, чтобы снять маскировку. (Он примет текстуру только нормально отрисованных блоков. Vanilla прозрачность работает, Thaumcraft's Amber - нет, потому что это цветная прозрачность, направленные текстуры, такие как деревянные бревна и кварцевые столбы, не поддерживаются полностью).
+#
+witchinggadgets_research_name.STONEEXTRUDER=Таумкрафтовский экструдер камня
+witchinggadgets_research_text.STONEEXTRUDER=[WG] У человека никогда не может быть достаточно камня
+witchinggadgets_research_page.STONEEXTRUDER.1= Даже те, кто не искусен в искусстве тауматургии, знают, как текучая лава застывает в булыжник при охлаждении водой. Опытные в магических искусствах не хотят тратить свое время на утомительное копание этих камней и поэтому создали автоматизированный способ.<BR>Эта машина будет создавать булыжник, ломать его и класть либо на землю, либо в подключенный инвентарь. Работа будет остановлена, если инвентарь переполнен или подан сигнал красного камня. Вы можете использовать палочку, чтобы вращать его.
+#
+witchinggadgets_research_name.AGEINGSTONE=Камень старения
+witchinggadgets_research_text.AGEINGSTONE=[WG] Время летит, когда весело!
+witchinggadgets_research_page.AGEINGSTONE.1=Каждый молодой тауматург не может дождаться, когда вырастет! Но это лишило бы вас слишком многих замечательных впечатлений. Поэтому вместо этого вы решили направить свои познания в искусстве замедления времени на создание другого арканного камня.<BR>Камень старения ускорит старение большинства обычных существ, заставляя ягнят, телят и поросят взрослеть гораздо быстрее, когда они подвергаются воздействию его магической энергии.<BR>Камень старения применит этот эффект ко всем существам в области 7x7x5 вокруг себя, при этом большее количество блоков увеличивает эффект.
+#
+witchinggadgets_research_name.THAUMICAPPLICATOR=
+witchinggadgets_research_text.THAUMICAPPLICATOR=[WG] 
+witchinggadgets_research_page.THAUMICAPPLICATOR.1=
+
+#
+witchinggadgets_research_name.SPINNINGWHEEL=Спиннинг
+witchinggadgets_research_text.SPINNINGWHEEL=[WG] Не уколоться
+witchinggadgets_research_page.SPINNINGWHEEL.1=Хотя многие великие волшебники пренебрегают практикой прядения и ткачества, многие из них делают это, недооценивая ее истинную силу. Множество магических артефактов являются продуктом ткачества, включая мантии всех тауматургов. Некоторые колдуны подтвердят, что само по себе колдовство даже имеет много общего с ткачеством, требуя осторожного обращения с соответствующими компонентами, будь то сырая магия в ее аспектах или нити.
+witchinggadgets_research_page.SPINNINGWHEEL.2=Каждый практикующий должен начать свою деятельность с создания собственного §lSpinning Wheel§r. Оно будет использоваться при получении пряжи, будь то обычная, из изысканного материала или улучшенная с помощью магии. Эта пряжа впоследствии будет использована для плетения ткани, из которой будут изготавливаться различные предметы одежды или магические артефакты.
+witchinggadgets_research_page.SPINNINGWHEEL.r1=<IMG>witchinggadgets:textures/gui/research/spinningRecipes1.png:0:0:255:255:0.5</IMG>§lYarn§r
+witchinggadgets_research_page.SPINNINGWHEEL.r2=<IMG>witchinggadgets:textures/gui/research/spinningRecipes2.png:0:0:255:255:0.5</IMG>§lЗолотая нить§r
+witchinggadgets_research_page.SPINNINGWHEEL.r3=<IMG>witchinggadgets:textures/gui/research/spinningRecipes3.png:0:0:255:255:0.5</IMG>§lThaumium Thread§r
+#
+witchinggadgets_research_name.LOOM=Loom
+witchinggadgets_research_text.LOOM=[WG] Волшебное плетение
+witchinggadgets_research_page.LOOM.1=Для дальнейшей обработки пряжи и нитей, полученных в результате прядения, волшебнику придется изготовить волшебный ткацкий станок, на котором он будет ткать свою волшебную ткань. Эта конструкция будет не только переплетать нити, но и наполнять их различными §lАспектами§r, наделяя их магическими свойствами. Чтобы напитать ткань аспектами, просто убедитесь, что поблизости находится §lWarded Jar§r, содержащий некоторые из них<BR>Чтобы начать ткать после задания рецепта, просто коснитесь станка своей палочкой.
+#
+witchinggadgets_research_name.ARCANEAUTOCRAFTER=Аркановый крафтер
+witchinggadgets_research_text.ARCANEAUTOCRAFTER=[WG] Ау-таум-номный крафт!
+witchinggadgets_research_page.ARCANEAUTOCRAFTER.1=У магов, открывших секреты бессмертия (вы узнаете их по длинной белой бороде), есть все время в мире. Но как насчет обычного тауматурга? Чтобы сэкономить себе время, почему бы не поручить кому-то другому выполнение утомительных и повторяющихся операций по изготовлению предметов? Конечно, никто не доверит голему такую мощную вещь, как жезл, но этот полуразумный деревянный стол вполне подойдет.
+witchinggadgets_research_page.ARCANEAUTOCRAFTER.2=Просто задайте желаемый рецепт (обычный рецепт или арканное ремесло), снабдите его материалами и, если нужно, заряженным жезлом, и ждите, пока он выполнит вашу просьбу. Заметьте, однако, что знания о ремесле ограничены знаниями игрока, поставившего блок.
+#
+witchinggadgets_research_name.CALCULATOR=Аркановый абакус
+witchinggadgets_research_text.CALCULATOR=[WG] 3-4 = Варп?
+witchinggadgets_research_page.CALCULATOR.1=Как опытный тауматург, близкий к достижению эльдрического знания, вы являетесь экспертом по хаосу. ...Это также может быть связано с отсутствием у вас математических знаний. Но кто будет утруждать себя науками обычного человека, когда есть чары, которые сделают это за вас? <BR>Арканный абакус снимет с вас часть мирской математики. Используйте его на узле, содержащем составные аспекты, и он рассчитает их до первичных значений. Используйте его на матрице инфузии, чтобы получить информацию о стабильности, расположении стабилизаторов, нестабильности текущей инфузии или возможном увеличении стоимости эссенции.
+witchinggadgets_research_page.CALCULATOR.2=§oСамая высокая нестабильность настойки, известная человеку *кашель*Таумический лудильщик*кашель*, равна 15. Стабилизация алтаря выше этого значения бессмысленна.
+#
+witchinggadgets_research_name.LABYRINTHSTRING=Путеводная нить
+witchinggadgets_research_text.LABYRINTHSTRING=[WG] Ариадна гордилась бы вами
+witchinggadgets_research_page.LABYRINTHSTRING.1=Лабиринты и лабиринты когда-то были благоприятным способом защиты секретов от злоумышленников. Настоящая опасность, конечно, заключается в том, чтобы не найти обратного пути.<BR>Чтобы помочь в этом, была разработана Путеводная Нить, предмет, который оставляет световой след, когда вы продвигаетесь через темное и ветреное место. Щелкните правой кнопкой мыши, чтобы активировать или деактивировать его. Пока он активен, он будет запоминать каждый ваш поворот. Свет виден только пока вы держите его. Нажав Sneak+, вы можете стереть его память.
+#
+witchinggadgets_research_name.LABELLIB=Аспектная библиотека
+witchinggadgets_research_text.LABELLIB=[WG] Индексировать стало проще!
+witchinggadgets_research_page.LABELLIB.1=В процессе управления и архивирования различных видов эссенции, с которыми вы имеете дело, вы обнаружили, что их маркировка - довольно утомительная работа. Чтобы больше не разливать эссенцию по бутылкам и не тереть ее об этикетку, чтобы получить нужный цвет, вы создали библиотеку аспектов. Это блок, который запоминает все открытые вами до сих пор аспекты и применяет их к этикеткам. Просто поместите в него метку, выберите аспект, и он настроит ее соответствующим образом.
+
+witchinggadgets_research_page.ENCHFABRIC.r1=<IMG>witchinggadgets:textures/gui/research/weavingRecipes2.png:0:0:255:255:0.5</IMG>
+#
+witchinggadgets_research_name.BAGOFTRICKS=Мешок с фокусами
+witchinggadgets_research_text.BAGOFTRICKS=[WG] Я слышал там эхо?
+witchinggadgets_research_page.BAGOFTRICKS.1=Дальнейшие достижения в магическом ткачестве привели вас к открытию §lCloth of Spacious Folds§r. Это очень интересное плетение, которое, кажется, содержит больше места в своих складках, чем видно снаружи. Создавая из нее сумку, вы получаете место для хранения, которое легко носить с собой.<BR>Ткань также очень хорошо защищает свое содержимое и причинит вред любому, кроме владельца, если он попытается получить доступ к сумке. §oЭто поведение может быть изменено владельцем с помощью sneak+rightlick.§r
+witchinggadgets_research_page.BAGOFTRICKS.r1=<IMG>witchinggadgets:textures/gui/research/weavingRecipes1.png:0:0:255:255:0.5</IMG>§lТкань просторных складок§r
+witchinggadgets_research_page.BAGOFTRICKS.2=Все сумки, созданные из этой ткани, можно окрашивать, создайте их без красителя, чтобы вернуть им цвет по умолчанию.
+#
+witchinggadgets_research_name.ADVANCEDROBES=Заколдованная руна
+witchinggadgets_research_text.ADVANCEDROBES=[WG] Шипящие магией
+witchinggadgets_research_page.ADVANCEDROBES.1=Темная сторона §mthe force§r тауматургии таит в себе огромную силу. Слегка прикоснувшись к этой силе, вы сможете соткать ткань, гораздо более богатую магией. Теперь вы можете делать себе лучшую одежду, усиленную магическим потенциалом.
+witchinggadgets_research_page.ADVANCEDROBES.r1=<IMG>witchinggadgets:textures/gui/research/weavingRecipes4.png:0:0:255:255:0.5</IMG>§lЗаколдованная руна§r
+#
+witchinggadgets_research_name.CLOAK=Плащ
+witchinggadgets_research_text.CLOAK=[WG] Swish!
+witchinggadgets_research_page.CLOAK.1=Заметив отличные "машущие" свойства зачарованной ткани, вы быстро набросали несколько схем для создания плаща из нее. Хотя этот стандартный плащ не обладает особыми способностями, его магическая ткань должна стать отличной основой для более продвинутых мантий.<BR>§o Для экипировки в инвентаре Traveller's Gear по умолчанию используется привязка клавиш 'Numpad 7'. Некоторые способности продвинутых плащей могут быть активированы. Это делается через меню "Активные способности" в Traveller's Gear. Привязка клавиш по умолчанию - 'R'.§r
+#
+witchinggadgets_research_name.CLOAK_STORAGE=Плащ с объемными карманами
+witchinggadgets_research_text.CLOAK_STORAGE=[WG] Я потерял здесь свои ключи...
+witchinggadgets_research_page.CLOAK_STORAGE.1=Сочетая концепцию вашей сумки с модным плащом, вы теперь имеете больше возможностей для хранения прямо на вашем теле! Плащ также имеет на 50% больше вместимости.
+#
+witchinggadgets_research_name.CLOAK_RAVEN=Мантия Ворона
+witchinggadgets_research_text.CLOAK_RAVEN=[WG] CA-CAW!
+witchinggadgets_research_page.CLOAK_RAVEN.1=В своих путешествиях по Сумеречному лесу вы встретили самого очаровательного Лесного Ворона. Эта удивительная птица демонстрирует высокую ловкость и маневренность в воздухе - подвиг, которому можно позавидовать.<BR>Но вместо того, чтобы завидовать, вы могли бы просто украсить свой плащ их перьями и наделить его магической силой...<BR>Когда вы носите этот плащ, ваша скорость в полете заметно увеличивается. А если вы не летите, плащ позволит вам скользить. Скольжение можно отключить в меню ActiveAbility.
+# OLD witchinggadgets_research_page.CLOAK_RAVEN.1=В своих путешествиях по Сумеречному лесу вы наткнулись на самого очаровательного лесного ворона. Эта удивительная птица, похоже, всегда находит место своего гнездовья, даже в густом и темном лесу, который она называет своим домом.<BR>Выщипав у нее перо, вы обнаружили, что она, пусть и в небольшом масштабе, унаследовала эту способность. Теперь вам остается только усилить эту способность с помощью ваших таумических возможностей и напитать ею вашу одежду. В результате получилась Мантия Ворона§r, которая позволяет вам отправляться и возвращаться на место гнездования за цену одного пера ворона. Вы можете заменить его тремя куриными перьями.
+#
+witchinggadgets_research_name.CLOAK_SPECTRAL=Спектральная мантия
+witchinggadgets_research_text.CLOAK_SPECTRAL=[WG] Теперь вы видите меня...
+witchinggadgets_research_page.CLOAK_SPECTRAL.1=План спектральных существ - загадка для большинства обычных людей. К счастью, вы - не большинство мужчин. Если напитать плащ эльдрической и спектральной энергией, он даст вам возможность "переместиться" в эту плоскость. Когда вы ходите среди них, вы невидимы для тех, кто ходит по обычной плоскости. Враги не увидят вас и не будут целиться в вас, если только они не являются существами элдритха, не обладают освобождающими силами или не носят Очки Раскрытия.<BR>Эта способность дается ценой невозможности взаимодействовать с физическим миром. Вы не можете атаковать, использовать предметы, ломать или активировать блоки. Кроме того, каждые 5 секунд из вашего инвентаря будет вычитаться 1 aer vis.
+witchinggadgets_research_page.CLOAK_SPECTRAL.2=§oОтказ от ответственности: существа, которые все еще могут видеть вас, включают: Эльдритч-стражи, Эльдритч-вардены, Эльдритч-големы, культисты-преторы, а также мобы-боссы, такие как Витер или Эндердракон. По причинам, неизвестным даже самым хитрым тауматургам, пауки и слизни, похоже, могут обнаружить вас различными способами. Любой другой пользователь этого плаща также сможет вас увидеть.§r
+#Создать плащ-невидимку - простая задача для тауматурга, но вот применить эффект к его владельцу - задача не из легких. Однако после утомительных исследований вы создали Плащ Невидимости§r, одежду, которая делает вас невидимым для невооруженного глаза. Сам плащ потерял немного своей магии в процессе, теперь он стал почти прозрачным, оставляя лишь легкое мерцание. Другие доспехи или предметы, которые вы держите в руках, не затрагиваются.
+#
+witchinggadgets_research_name.CLOAK_WOLF=Плащ волка
+witchinggadgets_research_text.CLOAK_WOLF=[WG] Какой у тебя большой рот!
+witchinggadgets_research_page.CLOAK_WOLF.1=Старые сказки рассказывают о берсеркерах, неумолимых воинах, пропитанных древней магией и закутанных в волчью шкуру.<BR>Ваши исследования выявили магические процедуры, подобные этим, и по причинам стиля и ностальгии вы решили, что их лучше всего интегрировать в плащ из волчьего меха. Если вы получите урон, надев его, вы получите дополнительный урон от атаки и скорость, подобно бесстрашным воинам древности.
+#
+witchinggadgets_research_name.ENDERBAG=Сумка с эндерлинком
+witchinggadgets_research_text.ENDERBAG=[WG] Везде и нигде одновременно!
+witchinggadgets_research_page.ENDERBAG.1=Подключив свой Мешок Трюков к эндерическим частотам своего личного Эндер-сундука, вы теперь имеете доступ к его содержимому из любой точки мира.<BR>Не пытайтесь вывернуть его наизнанку.
+#
+witchinggadgets_research_name.HUNGERBAG=Голодная сумка
+witchinggadgets_research_text.HUNGERBAG=[WG] Om nom nom nom nom
+witchinggadgets_research_page.HUNGERBAG.1=Сочетание портативности Мешка хитростей с неутолимым аппетитом Голодного сундука позволяет создать сумку, которая будет автоматически складывать в себя предметы, когда вы их подбираете.
+#
+witchinggadgets_research_name.WGBAUBLES=Witching Wearables
+witchinggadgets_research_text.WGBAUBLES=[WG] Это как волшебный бутик
+witchinggadgets_research_page.WGBAUBLES.1= То, что выглядит как страницы каталога магазина волшебного снаряжения, на самом деле оказалось арканными гематиками для магической одежды! §oВсе они должны быть экипированы в слоты Baubles или Traveller's Gear. Привязка клавиш по умолчанию для инвентаря TG - 'Numpad 7'.§r<BR>§lЗащитные наплечники: §r<BR>Эти наплечники не предназначены для того, чтобы быть очень модными, и их защитная ценность ничтожна. Однако магия, влитая в них, способна приковать вас к полу, чтобы вы не дрогнули под ударами врага. §oПредоставляет вам 60% сопротивления к ударам.§r
+witchinggadgets_research_page.WGBAUBLES.2=§lBerserker's Bracers:§r<BR>Покрытые волчьим мехом, эти браслеты не смогут удержать клинки. Но благодаря магии, влитой в них, они наделяют пользователя свирепостью волка. Кроме того, они невероятно пушистые.<BR>§oУвеличивает ваш урон от атаки на 2 пункта.§r
+witchinggadgets_research_page.WGBAUBLES.3=§lВамбрасеры постоянного продвижения:§r<BR>Эти вамбрасеры, разработанные гномьими тауматургами, призваны наделить вас способностью копать яму в постоянном темпе без перерыва. Для этого они динамически реагируют на условия работы, увеличивая скорость копания, когда пользователь погружается в воду, летает в воздухе или сталкивается с высокопрочными материалами.<BR>Они также увеличивают скорость, с которой вы поднимаетесь по лестнице, когда вам в конце концов понадобится обогнать то, что вы разбудили в темноте внизу.
+witchinggadgets_research_page.WGBAUBLES.4=§lПлечи Серафимы:§r<BR>Полет - это способность, которую многие желают получить. Это довольно продвинутая форма магии, которая позволяет пользователям летать, но небольшой прыжок в воздухе находится в пределах ваших возможностей.<BR>Эти плечи порождают мощные магические крылья, которые позволяют вам совершить второй прыжок в воздухе.
+witchinggadgets_research_page.WGBAUBLES.5=§lКольцо Снайпера:§r<BR>Некоторые порождения тьмы слишком сильны, чтобы противостоять им в ближнем бою, поэтому их лучше уничтожать на расстоянии. С кольцом Снайпера эта задача значительно упрощается.<BR>Пока вы носите кольцо, вы сможете двигаться быстрее, натягивая лук. Подкрадывание со стуком стрел позволит вам сосредоточиться на цели, находящейся вдалеке.
+witchinggadgets_research_page.WGBAUBLES.6=§lКольцо желанной монеты:§r<BR>Как здорово быть удачливым! Но удачи никогда не бывает достаточно. Вы придумали способ увеличить свою удачу, вставив золотую монету в кольцо и наделив его магией.<BR>§oНошение кольца увеличит вашу удачу и добычу на два уровня.<BR>Зачарованные книги, использованные для изготовления монеты, могут нести любые чары.§r
+#
+witchinggadgets_research_name.CLOAKKAMA=Kama
+witchinggadgets_research_text.CLOAKKAMA=[WG] Это не килт!
+witchinggadgets_research_page.CLOAKKAMA.1= Плащи и их усовершенствованные производные оказались одновременно модными и полезными, но при этом довольно большими и громоздкими. Если их укоротить и прикрепить к поясу, они превращаются в каму, своего рода полуюбку, закрывающую заднюю часть ног. Они по-прежнему выполняют те же задачи, просто теперь расположены в другой части тела.<BR>§l§4ПРЕДУПРЕЖДЕНИЕ: Из-за неизвестной ошибки, сдвиг результата из таблицы ремесел приведет к потере NBT-данных. Чтобы сохранить чары на плаще, его окраску и предметы, хранящиеся в нем, убедитесь, что вынимаете Каму из слота обычным щелчком.
+#
+witchinggadgets_research_name.RUNICCLOAK=Рунические плащи
+witchinggadgets_research_text.RUNICCLOAK=[WG] Лучшее из двух миров
+witchinggadgets_research_page.RUNICCLOAK.1=Хотя защита Руническими доспехами жизненно важна, вам действительно нравятся способности, даруемые вашими магическими плащами. Почему бы не иметь и то, и другое? <BR>Прикрепив чары рунического нагрудника к любому из магических плащей, вы сможете пользоваться преимуществами обоих.
+#
+witchinggadgets_research_name.ROSEVINE=Лозы роз
+witchinggadgets_research_text.ROSEVINE=[WG] Острые!
+witchinggadgets_research_page.ROSEVINE.1=Эти колючие растения - первый результат того, что тауматург углубился в гербологию. Хотя они не очень декоративны, их острые шипы и быстрый рост делают их идеальными для создания естественного периметра безопасности для любой базы §mcastle§r с сокровищами §ma sleeping beauty§r внутри, которые нужно охранять. Раскидистые лианы можно собирать с помощью ножниц.
+#
+witchinggadgets_research_name.ALCHEMICALTRANSMOGRIFY=Алхимическая трансмогрификация
+witchinggadgets_research_text.ALCHEMICALTRANSMOGRIFY=[WG] Трава растет, споры летают
+witchinggadgets_research_page.ALCHEMICALTRANSMOGRIFY.1=Расширяя ваш широкий спектр алхимических процессов, эти трансмутации можно использовать для оживления грязи, измельчения булыжника или очистки гравия.
+#
+witchinggadgets_research_name.PURECINNABAR=Очистка киновари
+witchinggadgets_research_text.PURECINNABAR=[WG] Очистка киновари в самородные кластеры
+witchinggadgets_research_page.PURECINNABAR.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной киноварной руды в кластеры самородной киновари.<BR>При выплавке этих кластеров получается вдвое больше обычного количества зыбучего серебра.
+#
+witchinggadgets_research_name.METALLURGICPERFECTION_CLUSTERS=Металлургическое совершенство: Очистка
+witchinggadgets_research_text.METALLURGICPERFECTION_CLUSTERS=[WG] Очистка большинства руд в самородные кластеры
+witchinggadgets_research_page.METALLURGICPERFECTION_CLUSTERS.1=Процесс очистки металла оказался очень похожим для каждого металла, который вы пробовали до сих пор.<BR>Следуя этой логике, вы создали общую теорию процесса, позволяющую вам превращать большинство руд, которые вы встречаете, в очищенные кластеры, более богатые по концентрации металла. 
+#
+witchinggadgets_research_name.METALLURGICPERFECTION_TRANSMUTATION=Металлургическое совершенство: Трансмутация
+witchinggadgets_research_text.METALLURGICPERFECTION_TRANSMUTATION=[WG] Превращение большинства металлов в другие
+witchinggadgets_research_page.METALLURGICPERFECTION_TRANSMUTATION.1=Процесс металлической трансмутации оказался очень похожим для каждого металла, который вы пробовали до сих пор.<BR>Следуя этой логике, вы создали общую теорию процесса, позволяющую вам синтезировать дополнительные самородки из необходимой смеси §5metallum§0 и соответствующих аспектов, определяющих металл.
+#
+witchinggadgets_research_name.PUREALUMINUM=Очистка алюминия
+witchinggadgets_research_text.PUREALUMINUM=[WG] Очистка алюминия в самородные кластеры
+witchinggadgets_research_page.PUREALUMINUM.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной алюминиевой руды в кластеры самородного алюминия.<BR>При выплавке этих кластеров получается вдвое больше обычного количества алюминиевых слитков.
+#
+witchinggadgets_research_name.PURECOBALT=Очистка кобальта
+witchinggadgets_research_text.PURECOBALT=[WG] Очистка кобальта в самородные кластеры
+witchinggadgets_research_page.PURECOBALT.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной кобальтовой руды в самородные кобальтовые кластеры.<BR>При выплавке этих кластеров получается вдвое больше обычного количества кобальтовых слитков.
+#
+witchinggadgets_research_name.PUREARDITE=Очистка ардита
+witchinggadgets_research_text.PUREARDITE=[WG] Очистка ардита в самородные кластеры
+witchinggadgets_research_page.PUREARDITE.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной ардитовой руды в самородные ардитовые кластеры.<BR>При выплавке этих кластеров получается вдвое больше обычного количества ардитовых слитков.
+#
+witchinggadgets_research_name.PURENICKEL=Очистка никеля
+witchinggadgets_research_text.PURENICKEL=[WG] Очистка никеля в самородные кластеры
+witchinggadgets_research_page.PURENICKEL.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной никелевой руды в самородные никелевые кластеры.<BR>При выплавке этих кластеров получается вдвое больше обычного количества никелевых слитков.
+#
+witchinggadgets_research_name.PUREFZDARKIRON=Очистка темного железа
+witchinggadgets_research_text.PUREFZDARKIRON=[WG] Очистка темного железа в самородные кластеры
+witchinggadgets_research_page.PUREFZDARKIRON.1=Нативные кластеры - это редкие концентрации металлов в чистом виде. Вы обнаружили способ очистки и концентрации обычной темной железной руды в кластеры самородного темного железа.<BR>При выплавке этих кластеров получается вдвое больше обычного количества слитков темного железа.
+
+#
+witchinggadgets_research_name.TRANSALUMINUM=Трансмутация алюминия
+witchinggadgets_research_text.TRANSALUMINUM=[WG] Трансформация металлов в алюминий
+witchinggadgets_research_page.TRANSALUMINUM.1=Вы открыли способ размножения алюминия путем вымачивания алюминиевых самородков в §5металлуме§0, полученном из других металлов.
+
+#INFERNALBLASTFURNACE
+witchinggadgets_research_name.INFERNALBLASTFURNACE=Инфернальная доменная печь
+witchinggadgets_research_text.INFERNALBLASTFURNACE=[WG] IT BURNS!...it smelts, actually...
+witchinggadgets_research_page.INFERNALBLASTFURNACE.1= Горящая очень жарким магическим пламенем, эта печь - ответ тауматургов на утомительные действия инженеров по очистке руды. Она переплавит любые скопления металла, брошенные в нее, в три слитка, к которым добавится случайный самородок.<BR>Кроме того, если вам понадобится сталь для других операций, нечистое пламя этого дьявольского артефакта - верный способ ее получить. Просто подбросьте железные слитки или блоки и ждите.<BR>Скорость этой конструкции может быть увеличена теми же средствами, что и у Адской печи.
+witchinggadgets_research_page.INFERNALBLASTFURNACE.2=Для обычной плавки это пламя слишком горячее, так что не пытайтесь бросать в него курицу.<BR>Отказ от ответственности: Хотя лава в этой печи была усилена магией, она все еще столь же (если не более) опасна. Любые предметы, которые не должны попадать в эту печь, будут испарены, как и любой тауматург, достаточно глупый, чтобы упасть в нее.
+witchinggadgets_research_page.INFERNALBLASTFURNACE.3=§oВ Таумономиконе немного неточно описана структура этой конструкции. Блоки лестницы наверху на самом деле должны быть обращены к среднему блоку, а углы должны прилегать к нему.§r
+
+#ТЕРРАФОРМЕР
+witchinggadgets_research_name.TERRAFORMER=Thaumic Terraforming
+witchinggadgets_research_text.TERRAFORMER=[WG] Slartibartfast!
+witchinggadgets_research_page.TERRAFORMER.1=Когда простое садоводство уже не справляется, когда вы хотите превратить унылый дождь в прекрасный снег, или когда ваши проклятые пчелы отказываются работать в нынешнем климате: Именно тогда в дело вступает Arcane Terrestrial Reformer.<BR>Поместив фокус на вершину, он будет настроен на определенный аспект. Эта конструкция будет потреблять эссенцию соответствующего аспекта, а также §2Terra§0 vis. За 4 потраченные эссенции и 4 vis она изменит биом близлежащей координаты в радиусе 16 кварталов.
+witchinggadgets_research_page.TERRAFORMER.2=Самый основной из наземных очагов представляет биом равнин. Чтобы он мог работать, его нужно снабдить эссенцией §2Herba§0.
+
+witchinggadgets_research_name.TERRAFORMFOCUS_COLDTAIGA=Фокус терроформирования: Холодная тайга
+witchinggadgets_research_text.TERRAFORMFOCUS_COLDTAIGA=[WG] Наступает зима
+witchinggadgets_research_page.TERRAFORMFOCUS_COLDTAIGA.1=В разительном (ха, понятно?) контрасте с Фокусом пустыни, Фокус земли: Холодная тайга превращает окружающую местность в зимнюю страну чудес. Для работы требуется эссенция §bGelum§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_DESERT=Фокус терроформирования: Пустыня
+witchinggadgets_research_text.TERRAFORMFOCUS_DESERT=[WG] Не десерт, обжора!
+witchinggadgets_research_page.TERRAFORMFOCUS_DESERT.1=Жаркое солнце, горячий песок, отсутствие воды и куча колючих кактусов. Даже эдлритч-знания не могут объяснить, почему кто-то захочет иметь это вокруг себя. Для сумасшедших, снабдив этот Фокус §cIgnis§0 essentia, вы сделаете этот трюк.
+witchinggadgets_research_name.TERRAFORMFOCUS_JUNGLE=Терраформальный фокус: Джунгли
+witchinggadgets_research_text.TERRAFORMFOCUS_JUNGLE=[WG] Добро пожаловать!
+witchinggadgets_research_page.TERRAFORMFOCUS_JUNGLE.1= Дружелюбный к животным тауматург делает все возможное, чтобы его кошки были счастливы. Жизнь в джунглях, хотя и вызывает сильное потоотделение, должна напоминать им об их прошлом, когда они были свирепыми хищниками в кустах... до того, как они превратились в раздражителей, блокирующих грудь. Для того, чтобы этот Фокус сработал, ему потребуется эссенция Арбора.
+witchinggadgets_research_name.TERRAFORMFOCUS_HELL=Терраформальный фокус: Ад
+witchinggadgets_research_text.TERRAFORMFOCUS_HELL=[WG] К черту пустоту
+witchinggadgets_research_page.TERRAFORMFOCUS_HELL.1=Давайте будем честными. Даже те, кого сводит с ума искривление в голове, не хотят жить в месте лавы и серы.<BR>...<BR>Что?! Ты хочешь?! Ну, как хочешь. Наполните фокус Tenebrae essentia и наслаждайтесь адом на земле.
+witchinggadgets_research_name.TERRAFORMFOCUS_MUSHROOM=Терраформальный фокус: Грибной остров
+witchinggadgets_research_text.TERRAFORMFOCUS_MUSHROOM=[WG] Му-у-гриб!
+witchinggadgets_research_page.TERRAFORMFOCUS_MUSHROOM.1=Цвета, может быть, и странные, а коровы выглядят смешно, но с гарантированной защитой от монстров Грибные острова - идеальное место для отдыха. И теперь вы можете перенести это ощущение на свой порог, просто снабдив этот фокус эссенцией §aLimus§0.
+witchinggadgets_research_name.TERRAFORMFOCUS_TAINT=Terrestrial Focus: Запятнанные земли
+witchinggadgets_research_text.TERRAFORMFOCUS_TAINT=[WG] Возьмите мои слезы, и это еще не все!
+witchinggadgets_research_page.TERRAFORMFOCUS_TAINT.1=Вот и все. К этому моменту вы уже практически считаетесь сумасшедшим. Создать искусственно испорченную землю? И не только с какой-то бутылкой, но и полномасштабное терраформирование? О, вы делаете это в исследовательских целях? Тогда все в порядке. Просто снабдите этот фокус эссенцией §5Vitium§0 и сходите с ума.
+
+#MIRRORPUMP
+witchinggadgets_research_name.MIRRORPUMP=Помпа Эссенции
+witchinggadgets_research_text.MIRRORPUMP=[WG] Выкуси!
+witchinggadgets_research_page.MIRRORPUMP.1=Зеркала эссенции могут позволить Алтарю вливания тянуть эссенцию на большие расстояния, но большинство других устройств не могут их использовать. Чтобы сэкономить много трубок, вы изобрели насос для эссенции. Когда он подключен к системе трубок, он распознает текущее всасывание системы и вытягивает соответствующий аспект из близлежащих зеркал.
+
+
+
+#SAUNASTOVE
+witchinggadgets_research_name.SAUNASTOVE=Таумическая печь для сауны
+witchinggadgets_research_text.SAUNASTOVE=[WG] Финская магия!
+witchinggadgets_research_page.SAUNASTOVE.1=Личная гигиена и спа-чувства, похоже, являются новой тенденцией среди тауматургов. Чтобы соответствовать этому, эта печь-сауна наполнит пространство вокруг себя приятным, очищающим паром.<BR>Под воздействием этого пара вы защищены от эффектов искривления, и у вас есть небольшой шанс уменьшить временное искривление. Однако, после посещения сауны вы также останетесь весьма голодными!<BR>Для работы печи нужна только вода, которую можно налить в емкость для жидкости, например, в ведро, или закачать напрямую. Одного ведра воды хватает на 10 минут работы печи!
+witchinggadgets_research_page.SAUNASTOVE.2=Если вы являетесь пользователем EnviroMine, то сауна также оставит вас жаждущим и слегка перегретым, но она также отлично влияет на ваше здравомыслие!
+
+#CRYSTALCAPSULE
+witchinggadgets_research_name.CRYSTALCAPSULE=Кристаллическая капсула
+witchinggadgets_research_text.CRYSTALCAPSULE=[WG] Из Венеции с любовью
+witchinggadgets_research_page.CRYSTALCAPSULE.1=Каждый может использовать ведро! ...к сожалению, не совсем. Некоторые жидкости не любят сотрудничать с обычными ведрами, но даже самая горячая или вязкая субстанция не может отказаться от волшебного всасывания стеклянных призм.<BR>Эти капсулы не режут, а отливают из эссенции, что делает их кристально чистыми, безупречными и непроницаемыми для агрессивных веществ.<BR>§oВы используете это как ведро, но оно будет работать с любым блоком жидкости.§r
+
+#
+witchinggadgets_research_name.ENCH_INVISIBLEGEAR=Зачарование: Прозрачность
+witchinggadgets_research_text.ENCH_INVISIBLEGEAR=[WG] У меня не будет ни одной из этих побрякушек!
+witchinggadgets_research_page.ENCH_INVISIBLEGEAR.1=Доспехи невероятно полезны, с этим может согласиться каждый. Она спасет вам жизнь в большинстве случаев. Но она также может стать помехой, когда вы пытаетесь действовать скрытно.<BR>Допустим, вы выпили зелье невидимости. Оно прекрасно работает и делает вас практически незаметным, если бы не громоздкая броня. Но опытный тауматург легко исправляет это, наполняя свои доспехи магическими чарами, которые делают их невидимыми для обычного зрителя!<BR>Первый уровень этих чар сделает ваше снаряжение полупрозрачным, когда вы сами невидимы, второй уровень сделает его невидимым постоянно. 
+#
+witchinggadgets_research_name.ENCH_UNVEILING=Enchantment: Раскрытие
+witchinggadgets_research_text.ENCH_UNVEILING=[WG] Xray Specs
+witchinggadgets_research_page.ENCH_UNVEILING.1=У каждого тауматурга бывают такие моменты, когда ему кажется, что кто-то или что-то наблюдает за ним. Но они смотрят вокруг, и ничего не видят. С правильными очками вы сможете увидеть этих гадов и посмотреть на них в ответ! <BR>Это заклинание можно наложить на Очки Разоблачения или другие головные уборы того же назначения. Надев зачарованный предмет, вы сможете видеть существ с баффом невидимости. Кроме того, чары Прозрачности становятся неэффективными при использовании другими, а пользователи спектральной мантии видны более отчетливо.
+#
+witchinggadgets_research_name.ENCH_STEALTH=Зачарование: Скрытность
+witchinggadgets_research_text.ENCH_STEALTH=[WG] Подлый!
+witchinggadgets_research_page.ENCH_STEALTH.1= Чаще всего подкрадываться не представляется возможным из-за высокой чувствительности существ, с которыми вы сталкиваетесь. Теперь это возможно! Наложив это заклинание на сапоги или гамаши, вы получите шанс остаться незамеченным, пока вы приседаете. Шанс увеличивается на 10% с каждым уровнем, но уменьшается на 10%, если вы находитесь в поле зрения цели.<BR>Если вас обнаружат, все враги в радиусе 5 кварталов будут оповещены.
+#
+witchinggadgets_research_name.ENCH_BACKSTAB=Зачарование: Backstabbing
+witchinggadgets_research_text.ENCH_BACKSTAB=[WG] Роги делают это сзади
+witchinggadgets_research_page.ENCH_BACKSTAB.1=С вашей новообретенной способностью красться появляется новый вариант боя. Нападая на врагов сзади, вы используете элемент неожиданности, чтобы избежать защиты противника. Предметы, зачарованные на "Удар в спину", наносят дополнительные 20% урона за уровень при атаке сзади, плюс еще 40%, если цель не знает о вас.
+#
+witchinggadgets_research_name.ENCH_RIDEPROTECT=Зачарование: Throwoff
+witchinggadgets_research_text.ENCH_RIDEPROTECT=[WG] Get off meh!
+witchinggadgets_research_page.ENCH_RIDEPROTECT.1=Передвигаться невероятно трудно, когда кто-то катается на вас верхом. Зачарование вашего шлема этим отталкивающим заклинанием должно решить эту проблему. Каждый, кто попытается запрыгнуть на вас, будет сброшен и поврежден.
+
+
+#GEMCUTTING
+witchinggadgets_research_name.GEMCUTTING=Огранка драгоценных камней
+witchinggadgets_research_text.GEMCUTTING=[WG] Все кристально чисто!
+witchinggadgets_research_page.GEMCUTTING.1=Огранка драгоценных камней - одна из старейших, но наиболее изысканных форм придания физической формы для магии. Если драгоценный камень пропитан магией, он больше не зависит от пользователя. Любой смертный может использовать силу, хранящуюся в огранённом драгоценном камне, а значит, он может наделить силой для тех, кто не владеет искусством тауматургии.<BR>Драгоценные камни различаются по своим своиствам, в зависимости от их огранки и магической сущности, влитой в них.
+
+witchinggadgets_research_page.GEMCUTTING.2=Вы можете использовать стол огранщика, чтобы создать драгоценные камни и наполнить их эссенцией.<BR>Поместите драгоценный камень в левый слот и добавьте эфирные эссенции или пузырки с эссенцией в остальные три слота. Эссенции должны быть одного аспекта и определяет силу полученного драгоценного камня. Выберите огранку с помощью стрелок, а затем вытащите готовый драгоценный камень из правого слота. После создания драгоценного камня его нельзя использовать повторно.
+
+witchinggadgets_research_page.GEMCUTTING.3=  §lПриродная совместимость§r<LINE>Некоторые камни имеют природную совместимость к определенным аспектам, которая усиливает их действие. Если совместимость совпадает с вливаемым аспектом, драгоценный камень будет с "Блеском", уровень которого зависит от количества эссенции, использованной при создании.<BR>    §lПриродное отторжение§r<LINE>Так же, некоторые камни имеют природное отторжение к определенным аспектам, и вливание их сделает полученный драгоценный камень хрупким, ослабляя его эффект и повышая шанс на то, что драгоценный камнень сломается.
+
+witchinggadgets_research_page.GEMCUTTING.4=    §lТочечная огранка§r<LINE>Точечная огранка - это самая простая форма, которую вы можете придать своему драгоценному камню. Хотя они и могут накапливать таумическую энергию, единственный способ высвободить ее - раздавить драгоценный камень, оставив после себя его пыль. Эффекты, варьирующиеся в зависимости от аспекта.
+
+witchinggadgets_research_page.GEMCUTTING.5=§e§lAer: §r§0Даст бафф на прыгучесть.<BR>§2§lTerra: §r§0Даст защиту от отбрасывания.<BR>§c§lIgnis: §r§0Освещает область вокруг вас временными проблесками света.<BR>§3§lAqua: §r§0Выпускает взрыв замораживающей энергии, превращая воду в лед и даже замараживая лаву в обсидиан.<BR>§f§lОрдо: §r§0Восстанавливает часть вашего здоровья.<BR>§8§lPerditio: §r§0Накладывает на вас временное искажение.
+
+witchinggadgets_research_page.GEMCUTTING.6=    §lОвальная огранка§r<LINE>Овальная огранка - это усовершенствованная форма огранки драгоценных камней. Благодаря увеличению количества граней он может накапливать гораздо больше энергии и высвобождать ее меньшими, концентрированными всплесками. Эффекты совершенно иные, чем у драгоценных камней с точечной огранкой и их можно подзарядить с помощью соответствующего аспекта.<BR>В силу своей сложности, использование обычных драгоценных камней без естественного сродства к аспекту делает полученный драгоценных камней очень хрупким. Так же увеличивается количество эссенции, необходимой для создания блестящего драгоценного камней.
+
+witchinggadgets_research_page.GEMCUTTING.7.noMirrors=§e§lAer: §r§0Ветер подхватывает вас и толкает в спину (рывок).Расходуется 1 заряд.<BR>§2§lTerra:§r§0Создаёт вокруг вас бункер из обсидиана.(Криво работает). Расходуется 1 заряд.§r§0<BR>§c§lIgnis: §r§0Поджигает блок. Расходуется 1 заряд.
+
+
+
+#
+witchinggadgets_research_name.GEMCUT_TABLE=Стол огранщика
+witchinggadgets_research_text.GEMCUT_TABLE=[WG] Блеск
+witchinggadgets_research_page.GEMCUT_TABLE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:0:80:80:1</IMG>Настольный срез
+witchinggadgets_research_name.GEMCUT_STEP=Постепенный разрез
+witchinggadgets_research_text.GEMCUT_STEP=[WG] Shwing
+witchinggadgets_research_page.GEMCUT_STEP.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:160:0:80:80:1</IMG>Табличный разрез - это
+witchinggadgets_research_name.GEMCUT_ROSE=Rose Cut
+witchinggadgets_research_text.GEMCUT_ROSE=[WG] Sparkle
+witchinggadgets_research_page.GEMCUT_ROSE.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:0:80:80:80:1</IMG>Срез стола - это
+witchinggadgets_research_name.GEMCUT_OVAL=Овальный срез
+witchinggadgets_research_text.GEMCUT_OVAL=[WG] Gleam
+witchinggadgets_research_page.GEMCUT_OVAL.1=<IMG>witchinggadgets:textures/gui/research/gemcuts.png:80:80:80:80:1</IMG>Овальная огранка - это совершенство в огранке драгоценных камней. Она используется при создании безделушек, но также может быть прикреплена к большинству доспехов и инструментов, придавая им эффект сокета. Список см. на следующих страницах.
+
+#-----------------------#
+#ELDRITCH
+#-----------------------#
+witchinggadgets_research_name.WGELDRITCHBASE=Древние исследования
+witchinggadgets_research_text.WGELDRITCHBASE=[WG] Взгляд в пустоту
+witchinggadgets_research_page.WGELDRITCHBASE.1=Ваши исследования доказали, что из металла Пустоты получаются прекрасные инструменты, но он также хорошо подходит для создания прочных барьеров, которые кажутся непроницаемыми для любых чужаков, но позволяют их владельцу пройти прямо сквозь них.
+
+#PRIMORDIALGLOVE
+witchinggadgets_research_name.PRIMORDIALGLOVE=Примордиальный перстень
+witchinggadgets_research_text.PRIMORDIALGLOVE=[WG] Другие предметы продаются отдельно
+witchinggadgets_research_page.PRIMORDIALGLOVE.1=Знание Первобытной жемчужины позволило вам расшифровать некоторые из эльдритских каракулей, с которыми вы имели дело раньше. Они содержали планы доспехов, предназначенных для направления энергии пустоты через драгоценные камни. К сожалению, расшифровать удалось только наброски перчатки.<BR>Эта перчатка имеет встроенный §5-узловой преобразователь§0, и когда ее когти сомкнутся на узле, она больше никогда не выпустит его, пока не заменит другим.<BR>Пять гнезд на этом устройстве принимают влитые драгоценные камни, и их сила может быть направлена через него, а скорость их перезарядки зависит от аспектов содержащегося узла.
+witchinggadgets_research_page.PRIMORDIALGLOVE.2=Следует отметить, что гнезда стабилизируют драгоценные камни внутри них, поэтому они никогда не сломаются при использовании, а просто перезарядятся.<BR>Для выбора активного драгоценного камня используется та же привязка клавиш, что и для переключения очагов палочки. Подкрадывайтесь, нажимая эту клавишу, чтобы открыть инвентарь для добавления или удаления драгоценных камней.<BR>Жемчужина не расходуется в процессе изготовления.
+
+#PRIMORDIALGEARSET
+witchinggadgets_research_name.PRIMORDIALGEARSET=Первозданное откровение
+witchinggadgets_research_text.PRIMORDIALGEARSET=[WG] Война с древними!
+witchinggadgets_research_page.PRIMORDIALGEARSET.1=Как вспышка молнии, неузнаваемые прежде каракули теперь кажутся кристально чистыми. Вы восстановили страницы по Первобытному кузнечному делу, искусству высокоэнергетического вливания. С его помощью вы создадите предметы снаряжения, превосходящие по длине ваши нынешние. Дизайн этих предметов ясно показывает, что они не предназначены для путешествующих тауматургов. Это подготовка к неизбежному конфликту с существами Пустоты. А что может быть лучше для борьбы с ними, чем металл, созданный с помощью их знаний? <BR>Вы должны отлить предметы из цельных блоков металла Пустоты, предметы первобытной силы, чтобы защитить и вооружить вас.
+witchinggadgets_research_page.PRIMORDIALGEARSET.2=Но это еще не все! Руны и гнезда на этом снаряжении будут идеальны для процессов имбутинга, усиливая их потенциал еще больше. Каждая деталь наделена элементальными способностями, что значительно увеличивает их потенциал! 
+
+#PRIMORDIALWEAPONRY
+witchinggadgets_research_name.PRIMORDIALWEAPONRY=Первобытное оружие
+witchinggadgets_research_text.PRIMORDIALWEAPONRY=[WG] Мобильная платформа для запуска первобытного оружия
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.1= Созданное только для уничтожения существ зла, Первобытное оружие превосходит любое магическое оружие, которое вы могли создать раньше. Все они не только обладают уникальными внутренними способностями, но и настраиваются на первобытное сродство, дающее дополнительные эффекты. И пусть вас не пугает их массивный вид, ведь их владелец не чувствует их веса, в отличие от цели, на которую они направлены.
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.2= Первобытный клеймор, кажется, помогает вам в прицеливании ударов. Лезвие обычно попадает в шею противника, что приводит к обезглавливанию.<BR>Первобытный вархаммер использует свой огромный вес, чтобы буквально раздавить противника. Это приводит к двойному урону, наносимому слизнякам и паукам, и шансу получить тяжелое сотрясение мозга среди всех остальных. Он также ломает блоки 3х3 при подкопе, если вы не подкрадываетесь. <BR>Первобытный топор рассекает листву, как горячий нож масло, но также хорошо рассекает броню. Урон оружия увеличивается в зависимости от брони противника, а сама броня также получает повышенный урон. 
+witchinggadgets_research_page.PRIMORDIALWEAPONRY.3=§l§n Primal Affinities:     §r<BR>§nAer:§r Оружие поражает нескольких врагов вместо одного.                  §nTerra:§r При блокировании оружием вы получаете бафф сопротивления, который накапливается до 3 уровня.              §nIgnis:§r Удары поджигают цель и покрывают ее пеплом, увеличивая весь наносимый ей урон огнем.       §nAqua:§r Цель покрывается растворяющей жидкостью, наносящей ей урон с течением времени. Пораженные цели будут ронять кристаллизованную эссенцию.            §nOrdo:§r Стоимость опыта, получаемого при убийстве врагов, значительно увеличивается, благодаря чему они будут приносить гораздо больше очков опыта.  §nPerditio:§r Атаки оставляют цель ослабленной и голодной.
+
+#PRIMORDIALCLAYMORE
+witchinggadgets_research_name.PRIMORDIALCLAYMORE=Первобытный клеймор
+witchinggadgets_research_text.PRIMORDIALCLAYMORE=[WG] Прочь их головы!
+witchinggadgets_research_page.PRIMORDIALCLAYMORE.1= Первобытный клеймор существует исключительно для борьбы и уничтожения существ зла. Его вес огромен, но пользователь почему-то не ощущает его. В отличие от жертвы, на которую он замахнулся. Его лезвие, кажется, помогает вам целиться в шею противника, что приводит к довольно частым обезглавливаниям.
+#PRIMORDIALHAMMER
+witchinggadgets_research_name.PRIMORDIALHAMMER=Примордиальный вархаммер
+witchinggadgets_research_text.PRIMORDIALHAMMER=[WG] Squish
+witchinggadgets_research_page.PRIMORDIALHAMMER.1=Первобытный вархаммер. Мало того, что его молот огромен, он, кажется, излучает еще больше, разбивая блоки в области 3x3 перед вами.<BR>Эффект на слизеподобных существ разрушителен, удваивая урон и разбрасывая их повсюду.
+#PRIMORDIALGREATAXE
+witchinggadgets_research_name.PRIMORDIALGREATAXE=Первобытный великий топор
+witchinggadgets_research_text.PRIMORDIALGREATAXE=[WG] Разрубить их на части
+witchinggadgets_research_page.PRIMORDIALGREATAXE.1= Первобытный топор пробивает пленку и дерево, как горячий нож масло. Но его острые края режут не только дерево.
+
+witchinggadgets_research_name.PRIMORDIALARMOR=Первобытная броня
+witchinggadgets_research_text.PRIMORDIALARMOR=[WG] Двуногий танк
+witchinggadgets_research_page.PRIMORDIALARMOR.1=Примордиальная броня совершенствует вашу защиту от врагов. Она сама по себе блокирует довольно много урона, но также восприимчива к руническим зачарованиям, что позволяет вам усилить ее еще больше. Кроме того, он имеет различные эффекты в зависимости от его первичного сродства, которое можно переключить в меню активных способностей. §o(Горячая клавиша по умолчанию: R)§r<BR>Как и Крепостная броня, она также может быть оснащена Очками разоблачения и соответствующими лицевыми пластинами.
+witchinggadgets_research_page.PRIMORDIALARMOR.2=§l§n Первобытные свойства:     §r<BR>§nAer:§r Любой снаряд, выпущенный в вас, подхватывается порывом воздуха и направляется обратно в стрелка. §nTerra:§r Повышенная защита от атак, которые обычно пробивают броню.                        §nIgnis:§r Урон, получаемый вами от пламени и взрывов, значительно снижается, и вы будете потушены, когда это необходимо.     §nAqua:§r Лечатся такие незначительные заболевания, как яд (taint), слепота, увядание и тошнота. Не действует на эффекты искривления.                       §nOrdo:§r Тяжесть и продолжительность всех эффектов состояния, основанных на искривлении, уменьшается.                    §nPerditio:§r Большинство ударов по пользователю мстят, поражая нападающего слепотой и медлительностью. 
+#witchinggadgets_research_name.PRIMORDIALHELMET=Первобытный шлем
+#witchinggadgets_research_text.PRIMORDIALHELMET=[WG] 
+#witchinggadgets_research_page.PRIMORDIALHELMET.1=
+#witchinggadgets_research_name.PRIMORDIALCUIRASS=Первобытная кираса
+#witchinggadgets_research_text.PRIMORDIALCUIRASS=[WG] 
+#witchinggadgets_research_page.PRIMORDIALCUIRASS.1=
+#witchinggadgets_research_name.PRIMORDIALGREAVES=Примордиальные гривы
+#witchinggadgets_research_text.PRIMORDIALGREAVES=[WG] 
+#witchinggadgets_research_page.PRIMORDIALGREAVES.1=
+#witchinggadgets_research_name.PRIMORDIALBOOTS=Первобытные сапоги
+#witchinggadgets_research_text.PRIMORDIALBOOTS=[WG] 
+#witchinggadgets_research_page.PRIMORDIALBOOTS.1=
+
+#EMPOWERPEARL
+witchinggadgets_research_name.EMPOWERPEARL=Жемчужное оживление
+witchinggadgets_research_text.EMPOWERPEARL=[WG] 120 bpm
+witchinggadgets_research_page.EMPOWERPEARL.1= Сила, которая когда-то пульсировала в Первозданной Жемчужине, исчезла. Ну, не исчезла, а просто влилась в другой предмет. Но не вся надежда потеряна! Сама жемчужина все еще существует, вам просто нужно снова наделить ее силой, влив ее...
+
+
+#VOIDBAG
+witchinggadgets_research_name.VOIDBAG=Сумка с пустотой
+witchinggadgets_research_text.VOIDBAG=[WG] Сверхмассивная черная дыра
+witchinggadgets_research_page.VOIDBAG.1=Неужели вам не нравится собирать весь этот бесполезный булыжник? Разве не было бы гораздо лучше, если бы он просто исчез? Вот вам решение! Мешок из магической ткани, пропитанный энергией пустоты, который разрушает физическую материю всех вещей, помещенных в него, и освобождает магическую энергию этого предмета.<BR>Как с ним работать: Откройте его и дайте ему примеры предметов, которые вы хотели бы в него положить. Затем, когда предмет будет подобран (работает только с предметами, подобранными в мире, но не с предметами, добавленными в ваш инвентарь другими способами), они будут уничтожены, а случайный первобытный аспект, содержащийся в них, будет отдан вам в качестве vis, заряжая вашу палочку. 
+
+
+# ПРОДВИНУТЫЕ ИНСТРУМЕНТЫ ДЛЯ ЧЕРЧЕНИЯ
+witchinggadgets_research_name.ADVANCEDSCRIBINGTOOLS=Advanced Inscription
+witchinggadgets_research_text.ADVANCEDSCRIBINGTOOLS=[WG] Могущественнее меча
+witchinggadgets_research_page.ADVANCEDSCRIBINGTOOLS.1=Каждый тауматург знает, как тяжело достать чернила, необходимые для дальнейшего обучения. Чаще всего ему приходится самому охотиться за кальмарами! Чтобы избежать этих неприятностей в будущем, вы придумали гораздо более мощный набор инструментов для черчения. Может быть, они и дороги в изготовлении, но запас магических чернил в них в десять раз больше, чем в обычных инструментах. А пополняется он не из чернильных мешков, вырезанных из слизких кальмаров, а из чистейшего света и небольшого количества золота.
+# ЭЛИТНАЯ РУНИЧЕСКАЯ БРОНЯ
+witchinggadgets_research_name.ELITERUNICARMOR=Элитная руническая броня
+witchinggadgets_research_text.ELITERUNICARMOR=[WG] Overshield!
+witchinggadgets_research_page.ELITERUNICARMOR.1=Хотя рунические доспехи являются отличной формой защиты, вы поняли, что эти руны можно применить и к настоящей броне. При этом вы получаете не только обычную броню, но и большую поверхность, позволяющую наносить больше рун, увеличивая набор рун, которые дает эта броня. Мудрый маг воспользуется приобретенным набором инструментов для начертания, потому что эта процедура расходует сотню единиц чернил, и обычное перо от этого сломается.
+#
+# ЭЛИТНЫЕ НАБОРЫ ДОСПЕХОВ
+witchinggadgets_research_name.DEMONIC_HELM=Шлем Левиафана
+witchinggadgets_research_text.DEMONIC_HELM=[WG] Зверь, выходящий из моря, с десятью рогами и семью головами
+witchinggadgets_research_page.DEMONIC_HELM.1= Глубины, в которых обитает чудовище, будут легко преодолимы, когда вы наденете этот шлем. Даже там, внизу, вы найдете воздух для дыхания и сможете видеть даже сквозь самую густую тьму.
+#
+witchinggadgets_research_name.DEMONIC_CHEST=Кираса Азраила
+witchinggadgets_research_text.DEMONIC_CHEST=[WG] И вот, бледный конь! И имя всаднику его было Смерть.
+witchinggadgets_research_page.DEMONIC_CHEST.1=И его жертвы падали перед его ногами. Когда человек носит эту кирасу, он получает не только способность летать, но и способность высасывать здоровье. При убийстве любого живого существа носитель этой инфернальной брони поглощает часть его жизненной силы, что позволяет ему добавить двадцать процентов здоровья убитого существа к своему собственному, отображаясь в виде хитпоинтов поглощения. Эти дополнительные единицы здоровья действуют только десять минут. Только существа с 10 сердцами и более являются подходящей добычей для этого заклинания. Если этого недостаточно, при убийстве любого существа владелец получает двадцать секунд повышенного насыщения.
+#witchinggadgets_research_page.DEMONIC_CHEST.1=И его жертвы падали перед его ногами. Пока человек носит эту кирасу, он наделен способностью летать. Кроме того, убив любое живое существо, они поглощают часть его здоровья. Это добавляет 20% здоровья существа в виде хитпоинтов поглощения, которые действуют в течение 10 минут. Действуют только на цели с 10 сердцами и более. Эти хитпоинты суммируются до 10 дополнительных сердец, и каждый раз таймер сбрасывается. Кроме того, при убийстве любого живого существа владелец получает 20 секунд насыщения.
+#
+witchinggadgets_research_name.DEMONIC_LEGS=Lycan's Greaves
+witchinggadgets_research_text.DEMONIC_LEGS=[WG] Эти лапы созданы для прыжков!
+witchinggadgets_research_page.DEMONIC_LEGS.1=Оборотни - свирепые звери. Еще более свирепые, когда их провоцируют. Эти поножи, пропитанные их аспектами, наделяют вас огромной скоростью. Если на вас нападут, они ввергнут вас в кровавую ярость, резко увеличив ваш урон. Во время спринта удерживайте назначенную клавишу (по умолчанию: Ctrl), чтобы получить бафф спешки.
+#
+witchinggadgets_research_name.DEMONIC_BOOTS=Когти Бегемота
+witchinggadgets_research_text.DEMONIC_BOOTS=[WG] And where he tread, he laid waste upon the land
+witchinggadgets_research_page.DEMONIC_BOOTS.1=Эти когтистые лапы позволят вам бежать с большей скоростью и не получать урон при падении. Когти также позволяют преодолевать стены. Приседание перед прыжком позволит вам прыгнуть выше, но это может привести к повреждению блоков под вами.
+#
+#
+witchinggadgets_research_name.ANGELIC_HELM=Офанский шлем
+witchinggadgets_research_text.ANGELIC_HELM=[WG] Огни направят вас домой
+witchinggadgets_research_page.ANGELIC_HELM.1= Даже в самой глубокой темноте для вас будет светить свет. Куда бы вы ни пошли, вас сопровождает мерцание магического света. Он исчезает вскоре после вашего ухода и появляется только в темных местах.
+#
+witchinggadgets_research_name.ANGELIC_CHEST=Кираса Серафа
+witchinggadgets_research_text.ANGELIC_CHEST=[WG] Ослепленный светом!
+witchinggadgets_research_page.ANGELIC_CHEST.1=Когда тауматург носит эту кирасу, он усилен силами света. Они получают способность летать и укрепляются светом. Чем ярче свет, в котором вы находитесь, тем выше шанс восстановить здоровье. Наконец, этот кираса содержит потусторонние карманы, позволяющие хранить в ней предметы. Откройте их с помощью клавиши для использования плаща (по умолчанию: 'G').
+#
+witchinggadgets_research_name.ANGELIC_LEGS=Черуб Гривз
+witchinggadgets_research_text.ANGELIC_LEGS=[WG] Зеленая... коленная чашечка?
+witchinggadgets_research_page.ANGELIC_LEGS.1=Когда вы пробираетесь через поля, на которых независимый тауматург выращивает свои припасы, грязь будет обработана, а сельскохозяйственные угодья увлажнены. Кроме того, если вы когда-нибудь окажетесь в затруднительном положении, попробуйте приседать и прыгать. Вас подбросит высоко в воздух, и все существа вокруг вас будут парализованы на короткое мгновение.
+#
+witchinggadgets_research_name.ANGELIC_BOOTS=Сабатоны Валькирии
+witchinggadgets_research_text.ANGELIC_BOOTS=[WG] Пернатые шаги
+witchinggadgets_research_page.ANGELIC_BOOTS.1= С помощью магии этих сапог вы передвигаетесь с большей скоростью и не получаете урона при падении.<BR>Кроме того, вам дарована способность ходить по поверхности любой жидкости. Это включает воду и лаву. Если вы приседаете, вы тонете.
+
+#
+witchinggadgets_research_name.SCANCAMERA=Таумический иконограф
+witchinggadgets_research_text.SCANCAMERA=[WG] Внутри нет Импа!
+witchinggadgets_research_page.SCANCAMERA.1=Эксперименты с магическим зеркальным стеклом показали, что при определенных условиях оно не отражает изображения, а сохраняет их. Используя это в своих целях, вы можете сохранять на стекле таумические отпечатки предметов, найденных вами во время путешествий. Позже вы сможете перенести эти отпечатки на бумагу, чтобы поделиться своими впечатлениями с другими тауматургами на следующем арканном совете.
+witchinggadgets_research_page.SCANCAMERA.2=Используйте §lThaumic Iconograph Box§r так же, как вы бы использовали Таумометр. Вы можете создать §lИконографическую пластину§r из любого предмета, который вы обычно сканируете, потратив §lМировое стекло§r из своего инвентаря. Вы можете делать иконографию даже с тех вещей, которые вы уже сканировали, но только использование §lРазвитой иконографии§r дает вам исследовательские аспекты. И это изучение изображения подчиняется тому же правилу, что и сканирование с помощью Таумометра. Увеличьте количество чернил и бумаги в рецепте проявки, чтобы создать более одной копии изображения.
+
+#
