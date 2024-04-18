@@ -1,0 +1,49 @@
+# keypress related strings
+tictooltips.hold.key.for.stats=Зажмите %s для статистики
+tictooltips.hold.key.for.materials=Зажмите %s для материалов
+tictooltips.hold.key.for.bow.stats=Зажмите %s для статистики стрелы
+tictooltips.hold.key.for.more=Зажмите %s для подробной информации
+
+# material tooltips
+tictooltips.material.shoddiness.modifier= [Модификатор: %s]
+tictooltips.material.arrow.weight=Вес стрелы: 
+tictooltips.material.durability.modifier=Модификатор прочности: 
+
+# pattern tooltips
+tictooltips.pattern.valid.materials=Подходящие материалы: 
+
+# tool tooltips
+tictooltips.tool.repair.material=Материал для ремонта: 
+tictooltips.tool.effective.durability=Эффективная прочность: 
+# uses: material.cactus.ability/material.stone.ability
+#tictooltips.tool.shoddiness.modifier=%s Modifier: 
+# uncomment these if your language needs different syntax for jagged/stonebound 
+tictooltips.tool.jagged.modifier=Модификатор зазубренности: 
+tictooltips.tool.stonebound.modifier=Модификатор силы камня: 
+tictooltips.tool.burn.duration=Время сгорания: 
+tictooltips.tool.bonus.vs.undead=Бонус против нежити: 
+tictooltips.tool.bonus.vs.spiders=Бонус против пауков: 
+tictooltips.tool.chance.to.behead=Шанс обезглавить: 
+tictooltips.tool.modifiers=Модификаторы: 
+tictooltips.tool.knockback=Отброс: 
+tictooltips.tool.sprint.damage=Урон во время бега: 
+tictooltips.tool.crit.damage=Бонус критического урона: 
+# uses: material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.stonebound.loss=Потери из-за силы камня: 
+tictooltips.tool.stonebound.bonus=Бонус из-за силы камня: 
+tictooltips.tool.jagged.loss=Потери из-за зазубренности: 
+tictooltips.tool.jagged.bonus=Бонус из-за зазубренности: 
+# uses: tictooltips.maximum, material.cactus.ability/material.stone.ability, gui.toolstation4/gui.toolstation5
+tictooltips.tool.max.stonebound.loss=Макс. потери из-за силы камня: 
+tictooltips.tool.max.stonebound.bonus=Макс. бонус из-за силы камня: 
+tictooltips.tool.max.jagged.loss=Макс. потери из-за зазубренности: 
+tictooltips.tool.max.jagged.bonus=Макс. бонус из-за зазубренности: 
+
+# generic
+tictooltips.minimum=Мин.
+tictooltips.maximum=Макс.
+tictooltips.unknown.part=<Неизвестная часть>
+tictooltips.infinite=Бесконечная
+
+# things that should be in TiC
+tictooltips.unbreakable=Неразрушимость
