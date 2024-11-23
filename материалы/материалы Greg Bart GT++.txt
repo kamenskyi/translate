@@ -42,9 +42,7 @@
     S:"Material.plutoniumbasedliquidfuel(excitedstate)"=Plutonium Based Liquid Fuel (Excited State)
     S:"Material.plutoniumbasedliquidfuel(excitedstate)"=Жидкое топливо на основе плутония (В возбуждённом состоянии)
     S:"Material.samarium(iii)-chloride"=Samarium(III)-Chloride
-    S:"Material.samarium(iii)-chloride"=Хлорид самария III
     S:"Material.samarium(iii)oxalate"=Samarium(III) Oxalate
-    S:"Material.samarium(iii)oxalate"=Оксалат самария III
     S:"Material.tantalumcarbide/hafniumcarbidemixture"=Tantalum Carbide / Hafnium Carbide Mixture
     S:"Material.tantalumcarbide/hafniumcarbidemixture"=Смесь карбидов гафния и тантала
     S:"Material.tellurium(iv)oxide"=Tellurium (IV) Oxide
@@ -76,7 +74,6 @@
     S:Material.4nitroaniline=4-Nitroaniline
     S:Material.4nitroaniline=4-Нитроанилин
     S:Material._null=_NULL
-    S:Material._null=_NULL
     S:Material.acetaldehyde=Acetaldehyde
     S:Material.acetaldehyde=Ацетальдегид
     S:Material.aceticacid=Acetic Acid
@@ -102,7 +99,7 @@
     S:Material.adamantiumalloy=Adamantium Alloy
     S:Material.adamantiumalloy=Адамантиевый сплав
     S:Material.adamite=Adamite
-    S:Material.adamite=Адамит
+    S:Material.adamite=Адамин
     S:Material.ademicsteel=Ademic Steel
     S:Material.ademicsteel=Адемическая сталь
     S:Material.adluorite=Adluorite
@@ -227,7 +224,6 @@
     S:Material.barite=Барит
     S:Material.barium=Barium
     S:Material.barium=Барий
-    S:Material.bartimaeusnek=BArTiMaEuSNeK
     S:Material.bartimaeusnek=BArTiMaEuSNeK
     S:Material.basalt=Basalt
     S:Material.basalt=Базальт
@@ -454,7 +450,7 @@
     S:Material.chromiumtrioxide=Chromium Trioxide
     S:Material.chromiumtrioxide=Триоксид хрома
     S:Material.chromo-alumino-povondraite=Chromo-Alumino-Povondraite
-    S:Material.chromo-alumino-povondraite=Хромалюминиевый повондраит
+    S:Material.chromo-alumino-povondraite=Хромоалюминиевый повондраит
     S:Material.chrysocolla=Chrysocolla
     S:Material.chrysocolla=Хризоколла
     S:Material.chrysotile=Chrysotile
@@ -638,17 +634,17 @@
     S:Material.diode=Diode
     S:Material.diode=Диод
     S:Material.diphenylisophtalate=Diphenyl Isophtalate
-    S:Material.diphenylisophtalate=Дифенилизофталат
+    S:Material.diphenylisophtalate=Дифенил изофталат
     S:Material.diphenylmethanediisocyanate=4,4'-Diphenylmethane Diisocyanate
-    S:Material.diphenylmethanediisocyanate=4,4'-Метилендифенилдиизоцианат
+    S:Material.diphenylmethanediisocyanate=4,4'-Метилендифенил диизоцианат
     S:Material.diphenylmethanediisocyanatemixture=Diphenylmethane Diisocyanate Mixture
-    S:Material.diphenylmethanediisocyanatemixture=Смесь метилендифенилдиизоцианата
+    S:Material.diphenylmethanediisocyanatemixture=Смесь метилендифенил диизоцианата
     S:Material.djurleite=Djurleite
     S:Material.djurleite=Джарлеит
     S:Material.dolomite=Dolomite
     S:Material.dolomite=Доломит
     S:Material.draconic=Draconic
-    S:Material.draconic=Дракониевый
+    S:Material.draconic=Драконий
     S:Material.draconium=Draconium
     S:Material.draconium=Драконий
     S:Material.draconiumawakened=Awakened Draconium
@@ -684,7 +680,7 @@
     S:Material.elite=Elite
     S:Material.elite=Элит
     S:Material.elvenelementium=Elven Elementium
-    S:Material.elvenelementium=Эльфийский Элементий
+    S:Material.elvenelementium=Элементий
     S:Material.emerald=Emerald
     S:Material.emerald=Изумруд
     S:Material.emery=Emery
@@ -712,7 +708,7 @@
     S:Material.energized=Energized
     S:Material.energized=Заряженный
     S:Material.enhancedgalgadorian=Enhanced Galgadorian
-    S:Material.enhancedgalgadorian=Усиленный Галгадорианский металл
+    S:Material.enhancedgalgadorian=Усиленный галгадорианский металл
     S:Material.enriched-naquadah-richsolution=Enriched-Naquadah-Rich Solution
     S:Material.enriched-naquadah-richsolution=Богатый раствор обогащённого наквадаха
     S:Material.enriched-naquadahoxidemixture=Enriched-Naquadah Oxide Mixture
@@ -1078,16 +1074,10 @@
     S:Material.hsla=HSLA Steel
     S:Material.hsla=HSLA сталь
     S:Material.hss-e=HSS-E
-    S:Material.hss-e=HSS-E
-    S:Material.hss-g=HSS-G
     S:Material.hss-g=HSS-G
     S:Material.hss-s=HSS-S
-    S:Material.hss-s=HSS-S
-    S:Material.hsse=HSS-E
     S:Material.hsse=HSS-E
     S:Material.hssg=HSS-G
-    S:Material.hssg=HSS-G
-    S:Material.hsss=HSS-S
     S:Material.hsss=HSS-S
     S:Material.huebnerite=Huebnerite
     S:Material.huebnerite=Гюбнерит
@@ -1136,9 +1126,9 @@
     S:Material.inertnaquadria=Inert Naquadria
     S:Material.inertnaquadria=Инертная Наквадрия
     S:Material.infernal=Infernal
-    S:Material.infernal=Инфернальный
+    S:Material.infernal=Инфернал
     S:Material.infinite=Infinite
-    S:Material.infinite=Бесконечный
+    S:Material.infinite=Бесконечно
     S:Material.infinity=Infinity
     S:Material.infinity=Бесконечность
     S:Material.infinitycatalyst=Infinity Catalyst
@@ -1161,7 +1151,6 @@
     S:Material.infusedorder=Кристалл порядка
     S:Material.infusedteslatite=Infused Teslatite
     S:Material.infusedteslatite=Обогащённый теслатит
-    S:Material.infusedvis=Auram
     S:Material.infusedvis=Auram
     S:Material.infusedwater=Aqua
     S:Material.infusedwater=Кристалл воды
@@ -1238,7 +1227,7 @@
     S:Material.lava=Lava
     S:Material.lava=Лава
     S:Material.lazurite=Lazurite
-    S:Material.lazurite=Ляпис-лазурит
+    S:Material.lazurite=Лазуритит
     S:Material.leachresidue=Leach Residue
     S:Material.leachresidue=Выщелоченный остаток
     S:Material.lead=Lead
@@ -1303,7 +1292,6 @@
     S:Material.lowqualitynaquadriaphosphate=Фосфат наквадрии низкого качества
     S:Material.lowqualitynaquadriasulphate=Low Quality Naquadria Sulphate
     S:Material.lowqualitynaquadriasulphate=Сульфат наквадрии низкого качества
-    S:Material.lpg=LPG
     S:Material.lpg=LPG
     S:Material.lubricant=Lubricant
     S:Material.lubricant=Смазка
@@ -1590,7 +1578,6 @@
     S:Material.noblegases=Noble Gases
     S:Material.noblegases=Благородные газы
     S:Material.null=NULL
-    S:Material.null=NULL
     S:Material.o-xylene=O-Xylene
     S:Material.o-xylene=орто-Ксилол
     S:Material.obsidian=Obsidian
@@ -1649,7 +1636,6 @@
     S:Material.oxalate=Оксалат
     S:Material.oxygen=Oxygen
     S:Material.oxygen=Кислород
-    S:Material.p-507=P-507
     S:Material.p-507=P-507
     S:Material.painite=Painite
     S:Material.painite=Пейнит
@@ -2448,7 +2434,7 @@
     S:Material.uvarovite=Uvarovite
     S:Material.uvarovite=Уваровит
     S:Material.vanadio-oxy-dravite=Vanadio-Oxy-Dravite
-    S:Material.vanadio-oxy-dravite=Ванадиеый оксидравит
+    S:Material.vanadio-oxy-dravite=Ванадиевый оксидравит
     S:Material.vanadium=Vanadium
     S:Material.vanadium=Ванадий
     S:Material.vanadiumgallium=Vanadium-Gallium
@@ -2584,13 +2570,13 @@
     S:bw.werkstoff.00004.name=Фианит
     S:bw.werkstoff.00004.tooltip=ZrO₂
     S:bw.werkstoff.00005.name=Fluor-Buergerite
-    S:bw.werkstoff.00005.name=Фтор-бергерит
+    S:bw.werkstoff.00005.name=Фтор-бюргерит
     S:bw.werkstoff.00005.tooltip=NaFe₃Al₆(Si₆O₁₈)(BO₃)₃O₃F
     S:bw.werkstoff.00006.name=Yttrium Oxide
     S:bw.werkstoff.00006.name=Оксид иттрия
     S:bw.werkstoff.00006.tooltip=Y₂O₃
     S:bw.werkstoff.00007.name=Chromo-Alumino-Povondraite
-    S:bw.werkstoff.00007.name=Хром-алюминиевый повондраит
+    S:bw.werkstoff.00007.name=Хромоалюминиевый повондраит
     S:bw.werkstoff.00007.tooltip=NaCr₃(Al₄Mg₂)(Si₆O₁₈)(BO₃)₃(OH)₃O
     S:bw.werkstoff.00008.name=Vanadio-Oxy-Dravite
     S:bw.werkstoff.00008.name=Ванадиевый оксидравит
@@ -2812,7 +2798,7 @@
     S:bw.werkstoff.00080.name=Соли родия
     S:bw.werkstoff.00080.tooltip=
     S:bw.werkstoff.00081.name=Rhodium Salt Solution
-    S:bw.werkstoff.00081.name=Раствор соли родия
+    S:bw.werkstoff.00081.name=Раствор солей родия
     S:bw.werkstoff.00081.tooltip=
     S:bw.werkstoff.00082.name=Sodium Nitrate
     S:bw.werkstoff.00082.name=Нитрат натрия
@@ -3097,7 +3083,7 @@
     S:bw.werkstoff.10074.name=Фосфат наквадрии низкого качества
     S:bw.werkstoff.10074.tooltip=??Nq*₃(PO₄)₄??
     S:bw.werkstoff.10075.name=Naquadria-Rich Solution
-    S:bw.werkstoff.10075.name=Богатый раствор наквадрии
+    S:bw.werkstoff.10075.name=Богатый раствор наквадрия
     S:bw.werkstoff.10075.tooltip=~?Nq*?~
     S:bw.werkstoff.10076.name=Low Quality Naquadria Sulphate
     S:bw.werkstoff.10076.name=Сульфат наквадрии низкого качества
@@ -3409,7 +3395,7 @@
     S:bw.werkstoff.11112.name=Окисленные цериевые редкие земли
     S:bw.werkstoff.11112.tooltip=
     S:bw.werkstoff.11113.name=Bastnasite Rarer Earth Oxides
-    S:bw.werkstoff.11113.nameОбогащённые бастнезитовые редкие земли
+    S:bw.werkstoff.11113.name=Обогащённые бастнезитовые редкие земли
     S:bw.werkstoff.11113.tooltip=
     S:bw.werkstoff.11114.name=Nitrogenated Bastnasite Rarer Earth Oxides
     S:bw.werkstoff.11114.name=Нитрованные обогащённые бастназитовые редкие земли
@@ -3448,7 +3434,7 @@
     S:bw.werkstoff.11128.name=Концентрат самариевой руды
     S:bw.werkstoff.11128.tooltip=??Sm??
     S:bw.werkstoff.11129.name=Dephosphated Samarium Concentrate
-    S:bw.werkstoff.11129.name=Дефосфатированный концентрат самария
+    S:bw.werkstoff.11129.name=Дефосфатированный самариевый концентрат
     S:bw.werkstoff.11129.tooltip=??Sm??
     S:bw.werkstoff.11300.name=Tetrahydrofuran
     S:bw.werkstoff.11300.name=Тетрагидрофуран
